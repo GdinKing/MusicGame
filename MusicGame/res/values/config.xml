@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="pay_tip_answer" translatable="false">90</integer>
+    <integer name="pay_delete_word" translatable="false">30</integer>
+    <string name="weixin_url" translatable="false">http://fx.anzhi.com/share_2346072.html?azfrom=weixincircle&amp;from=timeline&amp;isappinstalled=1</string>
+</resources>

@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- 主界面 -->
+    <!-- Frame 1 -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/index_background"
+        android:gravity="center_horizontal" >
+
+        <!-- Top bar -->
+
+        <include
+            android:id="@+id/top"
+            layout="@layout/top_bar" />
+
+        <!-- 唱片 -->
+
+        <include
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/top"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="15dp"
+            layout="@layout/pan_layout" />
+
+        <!-- 文字框 -->
+
+        <include
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            layout="@layout/name_select" />
+    </RelativeLayout>
+
+    <!-- 浮动按钮 -->
+
+    <include layout="@layout/float_button" />
+    <!-- 答案正确 -->
+
+    <include layout="@layout/answer_right" />
+
+</FrameLayout>

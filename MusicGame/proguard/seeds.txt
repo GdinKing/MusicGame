@@ -1,0 +1,2241 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableLeft(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawableRight(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceLeft(int)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResourceRight(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SwipeRefreshLayout: void setOnRefreshListener(android.support.v4.widget.SwipeRefreshLayout$OnRefreshListener)
+android.support.v4.widget.SwipeRefreshLayout: void setTriggerPercentage(float)
+android.support.v4.widget.SwipeRefreshLayout: void setRefreshing(boolean)
+android.support.v4.widget.SwipeRefreshLayout: void setTargetOffsetTopAndBottom(int)
+android.support.v7.app.ActionBarActivity: void setContentView(android.view.View)
+android.support.v7.appcompat.R$anim: int abc_fade_in
+android.support.v7.appcompat.R$anim: int abc_fade_out
+android.support.v7.appcompat.R$anim: int abc_slide_in_bottom
+android.support.v7.appcompat.R$anim: int abc_slide_in_top
+android.support.v7.appcompat.R$anim: int abc_slide_out_bottom
+android.support.v7.appcompat.R$anim: int abc_slide_out_top
+android.support.v7.appcompat.R$attr: int actionBarDivider
+android.support.v7.appcompat.R$attr: int actionBarItemBackground
+android.support.v7.appcompat.R$attr: int actionBarSize
+android.support.v7.appcompat.R$attr: int actionBarSplitStyle
+android.support.v7.appcompat.R$attr: int actionBarStyle
+android.support.v7.appcompat.R$attr: int actionBarTabBarStyle
+android.support.v7.appcompat.R$attr: int actionBarTabStyle
+android.support.v7.appcompat.R$attr: int actionBarTabTextStyle
+android.support.v7.appcompat.R$attr: int actionBarWidgetTheme
+android.support.v7.appcompat.R$attr: int actionButtonStyle
+android.support.v7.appcompat.R$attr: int actionDropDownStyle
+android.support.v7.appcompat.R$attr: int actionLayout
+android.support.v7.appcompat.R$attr: int actionMenuTextAppearance
+android.support.v7.appcompat.R$attr: int actionMenuTextColor
+android.support.v7.appcompat.R$attr: int actionModeBackground
+android.support.v7.appcompat.R$attr: int actionModeCloseButtonStyle
+android.support.v7.appcompat.R$attr: int actionModeCloseDrawable
+android.support.v7.appcompat.R$attr: int actionModeCopyDrawable
+android.support.v7.appcompat.R$attr: int actionModeCutDrawable
+android.support.v7.appcompat.R$attr: int actionModeFindDrawable
+android.support.v7.appcompat.R$attr: int actionModePasteDrawable
+android.support.v7.appcompat.R$attr: int actionModePopupWindowStyle
+android.support.v7.appcompat.R$attr: int actionModeSelectAllDrawable
+android.support.v7.appcompat.R$attr: int actionModeShareDrawable
+android.support.v7.appcompat.R$attr: int actionModeSplitBackground
+android.support.v7.appcompat.R$attr: int actionModeStyle
+android.support.v7.appcompat.R$attr: int actionModeWebSearchDrawable
+android.support.v7.appcompat.R$attr: int actionOverflowButtonStyle
+android.support.v7.appcompat.R$attr: int actionProviderClass
+android.support.v7.appcompat.R$attr: int actionViewClass
+android.support.v7.appcompat.R$attr: int activityChooserViewStyle
+android.support.v7.appcompat.R$attr: int background
+android.support.v7.appcompat.R$attr: int backgroundSplit
+android.support.v7.appcompat.R$attr: int backgroundStacked
+android.support.v7.appcompat.R$attr: int buttonBarButtonStyle
+android.support.v7.appcompat.R$attr: int buttonBarStyle
+android.support.v7.appcompat.R$attr: int customNavigationLayout
+android.support.v7.appcompat.R$attr: int disableChildrenWhenDisabled
+android.support.v7.appcompat.R$attr: int displayOptions
+android.support.v7.appcompat.R$attr: int divider
+android.support.v7.appcompat.R$attr: int dividerHorizontal
+android.support.v7.appcompat.R$attr: int dividerPadding
+android.support.v7.appcompat.R$attr: int dividerVertical
+android.support.v7.appcompat.R$attr: int dropDownListViewStyle
+android.support.v7.appcompat.R$attr: int dropdownListPreferredItemHeight
+android.support.v7.appcompat.R$attr: int expandActivityOverflowButtonDrawable
+android.support.v7.appcompat.R$attr: int height
+android.support.v7.appcompat.R$attr: int homeAsUpIndicator
+android.support.v7.appcompat.R$attr: int homeLayout
+android.support.v7.appcompat.R$attr: int icon
+android.support.v7.appcompat.R$attr: int iconifiedByDefault
+android.support.v7.appcompat.R$attr: int indeterminateProgressStyle
+android.support.v7.appcompat.R$attr: int initialActivityCount
+android.support.v7.appcompat.R$attr: int isLightTheme
+android.support.v7.appcompat.R$attr: int itemPadding
+android.support.v7.appcompat.R$attr: int listChoiceBackgroundIndicator
+android.support.v7.appcompat.R$attr: int listPopupWindowStyle
+android.support.v7.appcompat.R$attr: int listPreferredItemHeight
+android.support.v7.appcompat.R$attr: int listPreferredItemHeightLarge
+android.support.v7.appcompat.R$attr: int listPreferredItemHeightSmall
+android.support.v7.appcompat.R$attr: int listPreferredItemPaddingLeft
+android.support.v7.appcompat.R$attr: int listPreferredItemPaddingRight
+android.support.v7.appcompat.R$attr: int logo
+android.support.v7.appcompat.R$attr: int navigationMode
+android.support.v7.appcompat.R$attr: int paddingEnd
+android.support.v7.appcompat.R$attr: int paddingStart
+android.support.v7.appcompat.R$attr: int panelMenuListTheme
+android.support.v7.appcompat.R$attr: int panelMenuListWidth
+android.support.v7.appcompat.R$attr: int popupMenuStyle
+android.support.v7.appcompat.R$attr: int popupPromptView
+android.support.v7.appcompat.R$attr: int progressBarPadding
+android.support.v7.appcompat.R$attr: int progressBarStyle
+android.support.v7.appcompat.R$attr: int prompt
+android.support.v7.appcompat.R$attr: int queryHint
+android.support.v7.appcompat.R$attr: int searchDropdownBackground
+android.support.v7.appcompat.R$attr: int searchResultListItemHeight
+android.support.v7.appcompat.R$attr: int searchViewAutoCompleteTextView
+android.support.v7.appcompat.R$attr: int searchViewCloseIcon
+android.support.v7.appcompat.R$attr: int searchViewEditQuery
+android.support.v7.appcompat.R$attr: int searchViewEditQueryBackground
+android.support.v7.appcompat.R$attr: int searchViewGoIcon
+android.support.v7.appcompat.R$attr: int searchViewSearchIcon
+android.support.v7.appcompat.R$attr: int searchViewTextField
+android.support.v7.appcompat.R$attr: int searchViewTextFieldRight
+android.support.v7.appcompat.R$attr: int searchViewVoiceIcon
+android.support.v7.appcompat.R$attr: int selectableItemBackground
+android.support.v7.appcompat.R$attr: int showAsAction
+android.support.v7.appcompat.R$attr: int showDividers
+android.support.v7.appcompat.R$attr: int spinnerDropDownItemStyle
+android.support.v7.appcompat.R$attr: int spinnerMode
+android.support.v7.appcompat.R$attr: int spinnerStyle
+android.support.v7.appcompat.R$attr: int subtitle
+android.support.v7.appcompat.R$attr: int subtitleTextStyle
+android.support.v7.appcompat.R$attr: int textAllCaps
+android.support.v7.appcompat.R$attr: int textAppearanceLargePopupMenu
+android.support.v7.appcompat.R$attr: int textAppearanceListItem
+android.support.v7.appcompat.R$attr: int textAppearanceListItemSmall
+android.support.v7.appcompat.R$attr: int textAppearanceSearchResultSubtitle
+android.support.v7.appcompat.R$attr: int textAppearanceSearchResultTitle
+android.support.v7.appcompat.R$attr: int textAppearanceSmallPopupMenu
+android.support.v7.appcompat.R$attr: int textColorSearchUrl
+android.support.v7.appcompat.R$attr: int title
+android.support.v7.appcompat.R$attr: int titleTextStyle
+android.support.v7.appcompat.R$attr: int windowActionBar
+android.support.v7.appcompat.R$attr: int windowActionBarOverlay
+android.support.v7.appcompat.R$attr: int windowFixedHeightMajor
+android.support.v7.appcompat.R$attr: int windowFixedHeightMinor
+android.support.v7.appcompat.R$attr: int windowFixedWidthMajor
+android.support.v7.appcompat.R$attr: int windowFixedWidthMinor
+android.support.v7.appcompat.R$attr: int windowSplitActionBar
+android.support.v7.appcompat.R$bool: int abc_action_bar_embed_tabs_pre_jb
+android.support.v7.appcompat.R$bool: int abc_action_bar_expanded_action_views_exclusive
+android.support.v7.appcompat.R$bool: int abc_config_actionMenuItemAllCaps
+android.support.v7.appcompat.R$bool: int abc_config_allowActionMenuItemTextWithIcon
+android.support.v7.appcompat.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
+android.support.v7.appcompat.R$bool: int abc_split_action_bar_is_narrow
+android.support.v7.appcompat.R$color: int abc_search_url_text_holo
+android.support.v7.appcompat.R$color: int abc_search_url_text_normal
+android.support.v7.appcompat.R$color: int abc_search_url_text_pressed
+android.support.v7.appcompat.R$color: int abc_search_url_text_selected
+android.support.v7.appcompat.R$dimen: int abc_action_bar_default_height
+android.support.v7.appcompat.R$dimen: int abc_action_bar_icon_vertical_padding
+android.support.v7.appcompat.R$dimen: int abc_action_bar_progress_bar_size
+android.support.v7.appcompat.R$dimen: int abc_action_bar_stacked_max_height
+android.support.v7.appcompat.R$dimen: int abc_action_bar_stacked_tab_max_width
+android.support.v7.appcompat.R$dimen: int abc_action_bar_subtitle_bottom_margin
+android.support.v7.appcompat.R$dimen: int abc_action_bar_subtitle_text_size
+android.support.v7.appcompat.R$dimen: int abc_action_bar_subtitle_top_margin
+android.support.v7.appcompat.R$dimen: int abc_action_bar_title_text_size
+android.support.v7.appcompat.R$dimen: int abc_action_button_min_width
+android.support.v7.appcompat.R$dimen: int abc_config_prefDialogWidth
+android.support.v7.appcompat.R$dimen: int abc_dropdownitem_icon_width
+android.support.v7.appcompat.R$dimen: int abc_dropdownitem_text_padding_left
+android.support.v7.appcompat.R$dimen: int abc_dropdownitem_text_padding_right
+android.support.v7.appcompat.R$dimen: int abc_panel_menu_list_width
+android.support.v7.appcompat.R$dimen: int abc_search_view_preferred_width
+android.support.v7.appcompat.R$dimen: int abc_search_view_text_min_width
+android.support.v7.appcompat.R$dimen: int dialog_fixed_height_major
+android.support.v7.appcompat.R$dimen: int dialog_fixed_height_minor
+android.support.v7.appcompat.R$dimen: int dialog_fixed_width_major
+android.support.v7.appcompat.R$dimen: int dialog_fixed_width_minor
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_solid_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_solid_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_transparent_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_bottom_transparent_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_share_pack_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ab_share_pack_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ab_solid_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_solid_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_solid_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_solid_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_transparent_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_stacked_transparent_light_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_transparent_dark_holo
+android.support.v7.appcompat.R$drawable: int abc_ab_transparent_light_holo
+android.support.v7.appcompat.R$drawable: int abc_cab_background_bottom_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_cab_background_bottom_holo_light
+android.support.v7.appcompat.R$drawable: int abc_cab_background_top_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_cab_background_top_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_ab_back_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_ab_back_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_cab_done_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_cab_done_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_clear
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_disabled
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_normal
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_search_api_disabled_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_clear_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_commit_search_api_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_commit_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_go
+android.support.v7.appcompat.R$drawable: int abc_ic_go_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_share_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_ic_menu_share_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_search
+android.support.v7.appcompat.R$drawable: int abc_ic_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_ic_voice_search
+android.support.v7.appcompat.R$drawable: int abc_ic_voice_search_api_holo_light
+android.support.v7.appcompat.R$drawable: int abc_item_background_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_item_background_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_divider_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_divider_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_focused_holo
+android.support.v7.appcompat.R$drawable: int abc_list_longpressed_holo
+android.support.v7.appcompat.R$drawable: int abc_list_pressed_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_pressed_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_selector_background_transition_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_selector_background_transition_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_selector_disabled_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_selector_disabled_holo_light
+android.support.v7.appcompat.R$drawable: int abc_list_selector_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_list_selector_holo_light
+android.support.v7.appcompat.R$drawable: int abc_menu_dropdown_panel_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_menu_dropdown_panel_holo_light
+android.support.v7.appcompat.R$drawable: int abc_menu_hardkey_panel_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_menu_hardkey_panel_holo_light
+android.support.v7.appcompat.R$drawable: int abc_search_dropdown_dark
+android.support.v7.appcompat.R$drawable: int abc_search_dropdown_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_default_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_default_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_disabled_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_disabled_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_focused_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_focused_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_holo_light
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_pressed_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_spinner_ab_pressed_holo_light
+android.support.v7.appcompat.R$drawable: int abc_tab_indicator_ab_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_selected_focused_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_selected_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_selected_pressed_holo
+android.support.v7.appcompat.R$drawable: int abc_tab_unselected_pressed_holo
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_default_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_default_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_default_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_default_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_selected_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_right_selected_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_selected_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_search_selected_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_holo_light
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_right_holo_dark
+android.support.v7.appcompat.R$drawable: int abc_textfield_searchview_right_holo_light
+android.support.v7.appcompat.R$id: int action_bar
+android.support.v7.appcompat.R$id: int action_bar_activity_content
+android.support.v7.appcompat.R$id: int action_bar_container
+android.support.v7.appcompat.R$id: int action_bar_overlay_layout
+android.support.v7.appcompat.R$id: int action_bar_root
+android.support.v7.appcompat.R$id: int action_bar_subtitle
+android.support.v7.appcompat.R$id: int action_bar_title
+android.support.v7.appcompat.R$id: int action_context_bar
+android.support.v7.appcompat.R$id: int action_menu_divider
+android.support.v7.appcompat.R$id: int action_menu_presenter
+android.support.v7.appcompat.R$id: int action_mode_close_button
+android.support.v7.appcompat.R$id: int activity_chooser_view_content
+android.support.v7.appcompat.R$id: int always
+android.support.v7.appcompat.R$id: int beginning
+android.support.v7.appcompat.R$id: int checkbox
+android.support.v7.appcompat.R$id: int collapseActionView
+android.support.v7.appcompat.R$id: int default_activity_button
+android.support.v7.appcompat.R$id: int dialog
+android.support.v7.appcompat.R$id: int disableHome
+android.support.v7.appcompat.R$id: int dropdown
+android.support.v7.appcompat.R$id: int edit_query
+android.support.v7.appcompat.R$id: int end
+android.support.v7.appcompat.R$id: int expand_activities_button
+android.support.v7.appcompat.R$id: int expanded_menu
+android.support.v7.appcompat.R$id: int home
+android.support.v7.appcompat.R$id: int homeAsUp
+android.support.v7.appcompat.R$id: int icon
+android.support.v7.appcompat.R$id: int ifRoom
+android.support.v7.appcompat.R$id: int image
+android.support.v7.appcompat.R$id: int image1
+android.support.v7.appcompat.R$id: int listMode
+android.support.v7.appcompat.R$id: int list_item
+android.support.v7.appcompat.R$id: int middle
+android.support.v7.appcompat.R$id: int never
+android.support.v7.appcompat.R$id: int none
+android.support.v7.appcompat.R$id: int normal
+android.support.v7.appcompat.R$id: int progress_circular
+android.support.v7.appcompat.R$id: int progress_horizontal
+android.support.v7.appcompat.R$id: int radio
+android.support.v7.appcompat.R$id: int search_badge
+android.support.v7.appcompat.R$id: int search_bar
+android.support.v7.appcompat.R$id: int search_button
+android.support.v7.appcompat.R$id: int search_close_btn
+android.support.v7.appcompat.R$id: int search_edit_frame
+android.support.v7.appcompat.R$id: int search_go_btn
+android.support.v7.appcompat.R$id: int search_mag_icon
+android.support.v7.appcompat.R$id: int search_plate
+android.support.v7.appcompat.R$id: int search_src_text
+android.support.v7.appcompat.R$id: int search_voice_btn
+android.support.v7.appcompat.R$id: int shortcut
+android.support.v7.appcompat.R$id: int showCustom
+android.support.v7.appcompat.R$id: int showHome
+android.support.v7.appcompat.R$id: int showTitle
+android.support.v7.appcompat.R$id: int split_action_bar
+android.support.v7.appcompat.R$id: int submit_area
+android.support.v7.appcompat.R$id: int tabMode
+android.support.v7.appcompat.R$id: int title
+android.support.v7.appcompat.R$id: int top_action_bar
+android.support.v7.appcompat.R$id: int up
+android.support.v7.appcompat.R$id: int useLogo
+android.support.v7.appcompat.R$id: int withText
+android.support.v7.appcompat.R$integer: int abc_max_action_buttons
+android.support.v7.appcompat.R$layout: int abc_action_bar_decor
+android.support.v7.appcompat.R$layout: int abc_action_bar_decor_include
+android.support.v7.appcompat.R$layout: int abc_action_bar_decor_overlay
+android.support.v7.appcompat.R$layout: int abc_action_bar_home
+android.support.v7.appcompat.R$layout: int abc_action_bar_tab
+android.support.v7.appcompat.R$layout: int abc_action_bar_tabbar
+android.support.v7.appcompat.R$layout: int abc_action_bar_title_item
+android.support.v7.appcompat.R$layout: int abc_action_bar_view_list_nav_layout
+android.support.v7.appcompat.R$layout: int abc_action_menu_item_layout
+android.support.v7.appcompat.R$layout: int abc_action_menu_layout
+android.support.v7.appcompat.R$layout: int abc_action_mode_bar
+android.support.v7.appcompat.R$layout: int abc_action_mode_close_item
+android.support.v7.appcompat.R$layout: int abc_activity_chooser_view
+android.support.v7.appcompat.R$layout: int abc_activity_chooser_view_include
+android.support.v7.appcompat.R$layout: int abc_activity_chooser_view_list_item
+android.support.v7.appcompat.R$layout: int abc_expanded_menu_layout
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_checkbox
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_icon
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_layout
+android.support.v7.appcompat.R$layout: int abc_list_menu_item_radio
+android.support.v7.appcompat.R$layout: int abc_popup_menu_item_layout
+android.support.v7.appcompat.R$layout: int abc_search_dropdown_item_icons_2line
+android.support.v7.appcompat.R$layout: int abc_search_view
+android.support.v7.appcompat.R$layout: int abc_simple_decor
+android.support.v7.appcompat.R$layout: int support_simple_spinner_dropdown_item
+android.support.v7.appcompat.R$string: int abc_action_bar_home_description
+android.support.v7.appcompat.R$string: int abc_action_bar_up_description
+android.support.v7.appcompat.R$string: int abc_action_menu_overflow_description
+android.support.v7.appcompat.R$string: int abc_action_mode_done
+android.support.v7.appcompat.R$string: int abc_activity_chooser_view_see_all
+android.support.v7.appcompat.R$string: int abc_activitychooserview_choose_application
+android.support.v7.appcompat.R$string: int abc_searchview_description_clear
+android.support.v7.appcompat.R$string: int abc_searchview_description_query
+android.support.v7.appcompat.R$string: int abc_searchview_description_search
+android.support.v7.appcompat.R$string: int abc_searchview_description_submit
+android.support.v7.appcompat.R$string: int abc_searchview_description_voice
+android.support.v7.appcompat.R$string: int abc_shareactionprovider_share_with
+android.support.v7.appcompat.R$string: int abc_shareactionprovider_share_with_application
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_CompactMenu_Dialog
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_SearchResult
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_SearchResult_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_SearchResult_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Menu
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Menu
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title_Inverse
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_Base_DropDownItem
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_DropDownItem
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Large
+android.support.v7.appcompat.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Small
+android.support.v7.appcompat.R$style: int TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item
+android.support.v7.appcompat.R$style: int TextAppearance_Widget_AppCompat_ExpandedMenu_Item
+android.support.v7.appcompat.R$style: int Theme_AppCompat
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Base_CompactMenu
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Base_CompactMenu_Dialog
+android.support.v7.appcompat.R$style: int Theme_AppCompat_CompactMenu
+android.support.v7.appcompat.R$style: int Theme_AppCompat_CompactMenu_Dialog
+android.support.v7.appcompat.R$style: int Theme_AppCompat_DialogWhenLarge
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Light
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Light_DarkActionBar
+android.support.v7.appcompat.R$style: int Theme_AppCompat_Light_DialogWhenLarge
+android.support.v7.appcompat.R$style: int Theme_Base
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_DialogWhenLarge
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_DialogWhenLarge_Base
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Dialog_FixedSize
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Dialog_Light_FixedSize
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light_DarkActionBar
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light_DialogWhenLarge
+android.support.v7.appcompat.R$style: int Theme_Base_AppCompat_Light_DialogWhenLarge_Base
+android.support.v7.appcompat.R$style: int Theme_Base_Light
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActionMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActionMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ListView_Menu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ProgressBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_ProgressBar_Horizontal
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Base_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_Solid_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabBar_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabText_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionBar_TabView_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActionMode_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionButton
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionButton_CloseMode
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionButton_Overflow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActionMode_Inverse
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ActivityChooserView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_AutoCompleteTextView
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Base_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_DropDownItem_Spinner
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Light_Spinner_DropDown_ActionBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ListPopupWindow
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ListView_DropDown
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ListView_Menu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_PopupMenu
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ProgressBar
+android.support.v7.appcompat.R$style: int Widget_AppCompat_ProgressBar_Horizontal
+android.support.v7.appcompat.R$style: int Widget_AppCompat_Spinner_DropDown_ActionBar
+android.support.v7.appcompat.R$styleable: int[] ActionBar
+android.support.v7.appcompat.R$styleable: int[] ActionBarLayout
+android.support.v7.appcompat.R$styleable: int ActionBarLayout_android_layout_gravity
+android.support.v7.appcompat.R$styleable: int[] ActionBarWindow
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowActionBar
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowActionBarOverlay
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowFixedHeightMajor
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowFixedHeightMinor
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowFixedWidthMajor
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowFixedWidthMinor
+android.support.v7.appcompat.R$styleable: int ActionBarWindow_windowSplitActionBar
+android.support.v7.appcompat.R$styleable: int ActionBar_background
+android.support.v7.appcompat.R$styleable: int ActionBar_backgroundSplit
+android.support.v7.appcompat.R$styleable: int ActionBar_backgroundStacked
+android.support.v7.appcompat.R$styleable: int ActionBar_customNavigationLayout
+android.support.v7.appcompat.R$styleable: int ActionBar_displayOptions
+android.support.v7.appcompat.R$styleable: int ActionBar_divider
+android.support.v7.appcompat.R$styleable: int ActionBar_height
+android.support.v7.appcompat.R$styleable: int ActionBar_homeLayout
+android.support.v7.appcompat.R$styleable: int ActionBar_icon
+android.support.v7.appcompat.R$styleable: int ActionBar_indeterminateProgressStyle
+android.support.v7.appcompat.R$styleable: int ActionBar_itemPadding
+android.support.v7.appcompat.R$styleable: int ActionBar_logo
+android.support.v7.appcompat.R$styleable: int ActionBar_navigationMode
+android.support.v7.appcompat.R$styleable: int ActionBar_progressBarPadding
+android.support.v7.appcompat.R$styleable: int ActionBar_progressBarStyle
+android.support.v7.appcompat.R$styleable: int ActionBar_subtitle
+android.support.v7.appcompat.R$styleable: int ActionBar_subtitleTextStyle
+android.support.v7.appcompat.R$styleable: int ActionBar_title
+android.support.v7.appcompat.R$styleable: int ActionBar_titleTextStyle
+android.support.v7.appcompat.R$styleable: int[] ActionMenuItemView
+android.support.v7.appcompat.R$styleable: int ActionMenuItemView_android_minWidth
+android.support.v7.appcompat.R$styleable: int[] ActionMenuView
+android.support.v7.appcompat.R$styleable: int[] ActionMode
+android.support.v7.appcompat.R$styleable: int ActionMode_background
+android.support.v7.appcompat.R$styleable: int ActionMode_backgroundSplit
+android.support.v7.appcompat.R$styleable: int ActionMode_height
+android.support.v7.appcompat.R$styleable: int ActionMode_subtitleTextStyle
+android.support.v7.appcompat.R$styleable: int ActionMode_titleTextStyle
+android.support.v7.appcompat.R$styleable: int[] ActivityChooserView
+android.support.v7.appcompat.R$styleable: int ActivityChooserView_expandActivityOverflowButtonDrawable
+android.support.v7.appcompat.R$styleable: int ActivityChooserView_initialActivityCount
+android.support.v7.appcompat.R$styleable: int[] CompatTextView
+android.support.v7.appcompat.R$styleable: int CompatTextView_textAllCaps
+android.support.v7.appcompat.R$styleable: int[] LinearLayoutICS
+android.support.v7.appcompat.R$styleable: int LinearLayoutICS_divider
+android.support.v7.appcompat.R$styleable: int LinearLayoutICS_dividerPadding
+android.support.v7.appcompat.R$styleable: int LinearLayoutICS_showDividers
+android.support.v7.appcompat.R$styleable: int[] MenuGroup
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_checkableBehavior
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_enabled
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_id
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_menuCategory
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_orderInCategory
+android.support.v7.appcompat.R$styleable: int MenuGroup_android_visible
+android.support.v7.appcompat.R$styleable: int[] MenuItem
+android.support.v7.appcompat.R$styleable: int MenuItem_actionLayout
+android.support.v7.appcompat.R$styleable: int MenuItem_actionProviderClass
+android.support.v7.appcompat.R$styleable: int MenuItem_actionViewClass
+android.support.v7.appcompat.R$styleable: int MenuItem_android_alphabeticShortcut
+android.support.v7.appcompat.R$styleable: int MenuItem_android_checkable
+android.support.v7.appcompat.R$styleable: int MenuItem_android_checked
+android.support.v7.appcompat.R$styleable: int MenuItem_android_enabled
+android.support.v7.appcompat.R$styleable: int MenuItem_android_icon
+android.support.v7.appcompat.R$styleable: int MenuItem_android_id
+android.support.v7.appcompat.R$styleable: int MenuItem_android_menuCategory
+android.support.v7.appcompat.R$styleable: int MenuItem_android_numericShortcut
+android.support.v7.appcompat.R$styleable: int MenuItem_android_onClick
+android.support.v7.appcompat.R$styleable: int MenuItem_android_orderInCategory
+android.support.v7.appcompat.R$styleable: int MenuItem_android_title
+android.support.v7.appcompat.R$styleable: int MenuItem_android_titleCondensed
+android.support.v7.appcompat.R$styleable: int MenuItem_android_visible
+android.support.v7.appcompat.R$styleable: int MenuItem_showAsAction
+android.support.v7.appcompat.R$styleable: int[] MenuView
+android.support.v7.appcompat.R$styleable: int MenuView_android_headerBackground
+android.support.v7.appcompat.R$styleable: int MenuView_android_horizontalDivider
+android.support.v7.appcompat.R$styleable: int MenuView_android_itemBackground
+android.support.v7.appcompat.R$styleable: int MenuView_android_itemIconDisabledAlpha
+android.support.v7.appcompat.R$styleable: int MenuView_android_itemTextAppearance
+android.support.v7.appcompat.R$styleable: int MenuView_android_preserveIconSpacing
+android.support.v7.appcompat.R$styleable: int MenuView_android_verticalDivider
+android.support.v7.appcompat.R$styleable: int MenuView_android_windowAnimationStyle
+android.support.v7.appcompat.R$styleable: int[] SearchView
+android.support.v7.appcompat.R$styleable: int SearchView_android_imeOptions
+android.support.v7.appcompat.R$styleable: int SearchView_android_inputType
+android.support.v7.appcompat.R$styleable: int SearchView_android_maxWidth
+android.support.v7.appcompat.R$styleable: int SearchView_iconifiedByDefault
+android.support.v7.appcompat.R$styleable: int SearchView_queryHint
+android.support.v7.appcompat.R$styleable: int[] Spinner
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownHorizontalOffset
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownSelector
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownVerticalOffset
+android.support.v7.appcompat.R$styleable: int Spinner_android_dropDownWidth
+android.support.v7.appcompat.R$styleable: int Spinner_android_gravity
+android.support.v7.appcompat.R$styleable: int Spinner_android_popupBackground
+android.support.v7.appcompat.R$styleable: int Spinner_disableChildrenWhenDisabled
+android.support.v7.appcompat.R$styleable: int Spinner_popupPromptView
+android.support.v7.appcompat.R$styleable: int Spinner_prompt
+android.support.v7.appcompat.R$styleable: int Spinner_spinnerMode
+android.support.v7.appcompat.R$styleable: int[] Theme
+android.support.v7.appcompat.R$styleable: int Theme_actionDropDownStyle
+android.support.v7.appcompat.R$styleable: int Theme_dropdownListPreferredItemHeight
+android.support.v7.appcompat.R$styleable: int Theme_listChoiceBackgroundIndicator
+android.support.v7.appcompat.R$styleable: int Theme_panelMenuListTheme
+android.support.v7.appcompat.R$styleable: int Theme_panelMenuListWidth
+android.support.v7.appcompat.R$styleable: int Theme_popupMenuStyle
+android.support.v7.appcompat.R$styleable: int[] View
+android.support.v7.appcompat.R$styleable: int View_android_focusable
+android.support.v7.appcompat.R$styleable: int View_paddingEnd
+android.support.v7.appcompat.R$styleable: int View_paddingStart
+android.support.v7.internal.view.menu.ActionMenuItemView
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context)
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ActionMenuItemView: ActionMenuItemView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.view.menu.ActionMenuItemView: android.support.v7.internal.view.menu.MenuItemImpl getItemData()
+android.support.v7.internal.view.menu.ActionMenuItemView: void setItemInvoker(android.support.v7.internal.view.menu.MenuBuilder$ItemInvoker)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setCheckable(boolean)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setChecked(boolean)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setExpandedFormat(boolean)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+android.support.v7.internal.view.menu.ActionMenuItemView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.view.menu.ActionMenuPresenter$SavedState
+android.support.v7.internal.view.menu.ActionMenuPresenter$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.view.menu.ActionMenuView
+android.support.v7.internal.view.menu.ActionMenuView: ActionMenuView(android.content.Context)
+android.support.v7.internal.view.menu.ActionMenuView: ActionMenuView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ActionMenuView: void setPresenter(android.support.v7.internal.view.menu.ActionMenuPresenter)
+android.support.v7.internal.view.menu.ActionMenuView: void setOverflowReserved(boolean)
+android.support.v7.internal.view.menu.ActionMenuView: int getWindowAnimations()
+android.support.v7.internal.view.menu.ExpandedMenuView
+android.support.v7.internal.view.menu.ExpandedMenuView: ExpandedMenuView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ExpandedMenuView: int getWindowAnimations()
+android.support.v7.internal.view.menu.ListMenuItemView
+android.support.v7.internal.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.view.menu.ListMenuItemView: ListMenuItemView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.view.menu.ListMenuItemView: void setForceShowIcon(boolean)
+android.support.v7.internal.view.menu.ListMenuItemView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.view.menu.ListMenuItemView: android.support.v7.internal.view.menu.MenuItemImpl getItemData()
+android.support.v7.internal.view.menu.ListMenuItemView: void setCheckable(boolean)
+android.support.v7.internal.view.menu.ListMenuItemView: void setChecked(boolean)
+android.support.v7.internal.view.menu.ListMenuItemView: void setIcon(android.graphics.drawable.Drawable)
+android.support.v7.internal.view.menu.ListMenuItemView: android.view.LayoutInflater getInflater()
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context)
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.AbsActionBarView: AbsActionBarView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.AbsActionBarView: void setSplitActionBar(boolean)
+android.support.v7.internal.widget.AbsActionBarView: void setSplitWhenNarrow(boolean)
+android.support.v7.internal.widget.AbsActionBarView: void setContentHeight(int)
+android.support.v7.internal.widget.AbsActionBarView: int getContentHeight()
+android.support.v7.internal.widget.AbsActionBarView: void setSplitView(android.support.v7.internal.widget.ActionBarContainer)
+android.support.v7.internal.widget.AbsActionBarView: int getAnimatedVisibility()
+android.support.v7.internal.widget.AbsActionBarView: void setVisibility(int)
+android.support.v7.internal.widget.AbsSpinnerICS$SavedState
+android.support.v7.internal.widget.AbsSpinnerICS$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ActionBarContainer
+android.support.v7.internal.widget.ActionBarContainer: ActionBarContainer(android.content.Context)
+android.support.v7.internal.widget.ActionBarContainer: ActionBarContainer(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarContainer: void setPrimaryBackground(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarContainer: void setStackedBackground(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarContainer: void setSplitBackground(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarContainer: void setVisibility(int)
+android.support.v7.internal.widget.ActionBarContainer: void setTransitioning(boolean)
+android.support.v7.internal.widget.ActionBarContainer: void setTabContainer(android.support.v7.internal.widget.ScrollingTabContainerView)
+android.support.v7.internal.widget.ActionBarContainer: android.view.View getTabContainer()
+android.support.v7.internal.widget.ActionBarContextView
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context)
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarContextView: ActionBarContextView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.ActionBarContextView: void setSplitActionBar(boolean)
+android.support.v7.internal.widget.ActionBarContextView: void setContentHeight(int)
+android.support.v7.internal.widget.ActionBarContextView: void setCustomView(android.view.View)
+android.support.v7.internal.widget.ActionBarContextView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarContextView: void setSubtitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarContextView: java.lang.CharSequence getTitle()
+android.support.v7.internal.widget.ActionBarContextView: java.lang.CharSequence getSubtitle()
+android.support.v7.internal.widget.ActionBarContextView: void setTitleOptional(boolean)
+android.support.v7.internal.widget.ActionBarContextView: void setVisibility(int)
+android.support.v7.internal.widget.ActionBarContextView: int getAnimatedVisibility()
+android.support.v7.internal.widget.ActionBarContextView: void setSplitView(android.support.v7.internal.widget.ActionBarContainer)
+android.support.v7.internal.widget.ActionBarContextView: int getContentHeight()
+android.support.v7.internal.widget.ActionBarContextView: void setSplitWhenNarrow(boolean)
+android.support.v7.internal.widget.ActionBarOverlayLayout
+android.support.v7.internal.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context)
+android.support.v7.internal.widget.ActionBarOverlayLayout: ActionBarOverlayLayout(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarOverlayLayout: void setActionBar(android.support.v7.app.ActionBar)
+android.support.v7.internal.widget.ActionBarView
+android.support.v7.internal.widget.ActionBarView: ActionBarView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarView: void setWindowCallback(android.view.Window$Callback)
+android.support.v7.internal.widget.ActionBarView: void setSplitActionBar(boolean)
+android.support.v7.internal.widget.ActionBarView: void setEmbeddedTabView(android.support.v7.internal.widget.ScrollingTabContainerView)
+android.support.v7.internal.widget.ActionBarView: void setCallback(android.support.v7.app.ActionBar$OnNavigationListener)
+android.support.v7.internal.widget.ActionBarView: void setCustomNavigationView(android.view.View)
+android.support.v7.internal.widget.ActionBarView: java.lang.CharSequence getTitle()
+android.support.v7.internal.widget.ActionBarView: void setTitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: void setWindowTitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: void setTitleImpl(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: java.lang.CharSequence getSubtitle()
+android.support.v7.internal.widget.ActionBarView: void setSubtitle(java.lang.CharSequence)
+android.support.v7.internal.widget.ActionBarView: void setHomeButtonEnabled(boolean)
+android.support.v7.internal.widget.ActionBarView: void setDisplayOptions(int)
+android.support.v7.internal.widget.ActionBarView: void setIcon(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarView: void setIcon(int)
+android.support.v7.internal.widget.ActionBarView: void setLogo(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarView: void setLogo(int)
+android.support.v7.internal.widget.ActionBarView: void setNavigationMode(int)
+android.support.v7.internal.widget.ActionBarView: void setDropdownAdapter(android.widget.SpinnerAdapter)
+android.support.v7.internal.widget.ActionBarView: android.widget.SpinnerAdapter getDropdownAdapter()
+android.support.v7.internal.widget.ActionBarView: void setDropdownSelectedPosition(int)
+android.support.v7.internal.widget.ActionBarView: int getDropdownSelectedPosition()
+android.support.v7.internal.widget.ActionBarView: android.view.View getCustomNavigationView()
+android.support.v7.internal.widget.ActionBarView: int getNavigationMode()
+android.support.v7.internal.widget.ActionBarView: int getDisplayOptions()
+android.support.v7.internal.widget.ActionBarView: void setContextView(android.support.v7.internal.widget.ActionBarContextView)
+android.support.v7.internal.widget.ActionBarView: void setCollapsable(boolean)
+android.support.v7.internal.widget.ActionBarView: void setHomeAsUpIndicator(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActionBarView: void setHomeAsUpIndicator(int)
+android.support.v7.internal.widget.ActionBarView: void setVisibility(int)
+android.support.v7.internal.widget.ActionBarView: int getAnimatedVisibility()
+android.support.v7.internal.widget.ActionBarView: void setSplitView(android.support.v7.internal.widget.ActionBarContainer)
+android.support.v7.internal.widget.ActionBarView: int getContentHeight()
+android.support.v7.internal.widget.ActionBarView: void setContentHeight(int)
+android.support.v7.internal.widget.ActionBarView: void setSplitWhenNarrow(boolean)
+android.support.v7.internal.widget.ActionBarView$HomeView
+android.support.v7.internal.widget.ActionBarView$HomeView: ActionBarView$HomeView(android.content.Context)
+android.support.v7.internal.widget.ActionBarView$HomeView: ActionBarView$HomeView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ActionBarView$SavedState
+android.support.v7.internal.widget.ActionBarView$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ActivityChooserView: void setActivityChooserModel(android.support.v7.internal.widget.ActivityChooserModel)
+android.support.v7.internal.widget.ActivityChooserView: void setExpandActivityOverflowButtonDrawable(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ActivityChooserView: void setExpandActivityOverflowButtonContentDescription(int)
+android.support.v7.internal.widget.ActivityChooserView: void setProvider(android.support.v4.view.ActionProvider)
+android.support.v7.internal.widget.ActivityChooserView: android.support.v7.internal.widget.ActivityChooserModel getDataModel()
+android.support.v7.internal.widget.ActivityChooserView: void setOnDismissListener(android.widget.PopupWindow$OnDismissListener)
+android.support.v7.internal.widget.ActivityChooserView: void setInitialActivityCount(int)
+android.support.v7.internal.widget.ActivityChooserView: void setDefaultActionButtonContentDescription(int)
+android.support.v7.internal.widget.ActivityChooserView: android.support.v7.internal.widget.ListPopupWindow getListPopupWindow()
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context)
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.CompatTextView: CompatTextView(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.internal.widget.LinearLayoutICS
+android.support.v7.internal.widget.LinearLayoutICS: LinearLayoutICS(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.LinearLayoutICS: int getSupportDividerWidth()
+android.support.v7.internal.widget.NativeActionModeAwareLayout
+android.support.v7.internal.widget.NativeActionModeAwareLayout: NativeActionModeAwareLayout(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.NativeActionModeAwareLayout: void setActionModeForChildListener(android.support.v7.internal.widget.NativeActionModeAwareLayout$OnActionModeForChildListener)
+android.support.v7.internal.widget.ProgressBarICS: android.graphics.drawable.shapes.Shape getDrawableShape()
+android.support.v7.internal.widget.ProgressBarICS: void setIndeterminate(boolean)
+android.support.v7.internal.widget.ProgressBarICS: android.graphics.drawable.Drawable getIndeterminateDrawable()
+android.support.v7.internal.widget.ProgressBarICS: void setIndeterminateDrawable(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ProgressBarICS: android.graphics.drawable.Drawable getProgressDrawable()
+android.support.v7.internal.widget.ProgressBarICS: void setProgressDrawable(android.graphics.drawable.Drawable)
+android.support.v7.internal.widget.ProgressBarICS: void setProgress(int)
+android.support.v7.internal.widget.ProgressBarICS: void setSecondaryProgress(int)
+android.support.v7.internal.widget.ProgressBarICS: int getProgress()
+android.support.v7.internal.widget.ProgressBarICS: int getSecondaryProgress()
+android.support.v7.internal.widget.ProgressBarICS: int getMax()
+android.support.v7.internal.widget.ProgressBarICS: void setMax(int)
+android.support.v7.internal.widget.ProgressBarICS: void setInterpolator(android.view.animation.Interpolator)
+android.support.v7.internal.widget.ProgressBarICS: android.view.animation.Interpolator getInterpolator()
+android.support.v7.internal.widget.ProgressBarICS: void setVisibility(int)
+android.support.v7.internal.widget.ProgressBarICS$SavedState
+android.support.v7.internal.widget.ProgressBarICS$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v7.internal.widget.ScrollingTabContainerView: void setAllowCollapse(boolean)
+android.support.v7.internal.widget.ScrollingTabContainerView: void setTabSelected(int)
+android.support.v7.internal.widget.ScrollingTabContainerView: void setContentHeight(int)
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView: ScrollingTabContainerView$TabView(android.content.Context,android.util.AttributeSet)
+android.support.v7.internal.widget.ScrollingTabContainerView$TabView: android.support.v7.app.ActionBar$Tab getTab()
+android.support.v7.widget.SearchView: void setSearchableInfo(android.app.SearchableInfo)
+android.support.v7.widget.SearchView: void setAppSearchData(android.os.Bundle)
+android.support.v7.widget.SearchView: void setImeOptions(int)
+android.support.v7.widget.SearchView: int getImeOptions()
+android.support.v7.widget.SearchView: void setInputType(int)
+android.support.v7.widget.SearchView: int getInputType()
+android.support.v7.widget.SearchView: void setOnQueryTextListener(android.support.v7.widget.SearchView$OnQueryTextListener)
+android.support.v7.widget.SearchView: void setOnCloseListener(android.support.v7.widget.SearchView$OnCloseListener)
+android.support.v7.widget.SearchView: void setOnQueryTextFocusChangeListener(android.view.View$OnFocusChangeListener)
+android.support.v7.widget.SearchView: void setOnSuggestionListener(android.support.v7.widget.SearchView$OnSuggestionListener)
+android.support.v7.widget.SearchView: void setOnSearchClickListener(android.view.View$OnClickListener)
+android.support.v7.widget.SearchView: java.lang.CharSequence getQuery()
+android.support.v7.widget.SearchView: void setQueryHint(java.lang.CharSequence)
+android.support.v7.widget.SearchView: java.lang.CharSequence getQueryHint()
+android.support.v7.widget.SearchView: void setIconifiedByDefault(boolean)
+android.support.v7.widget.SearchView: void setIconified(boolean)
+android.support.v7.widget.SearchView: void setSubmitButtonEnabled(boolean)
+android.support.v7.widget.SearchView: void setQueryRefinementEnabled(boolean)
+android.support.v7.widget.SearchView: void setSuggestionsAdapter(android.support.v4.widget.CursorAdapter)
+android.support.v7.widget.SearchView: android.support.v4.widget.CursorAdapter getSuggestionsAdapter()
+android.support.v7.widget.SearchView: void setMaxWidth(int)
+android.support.v7.widget.SearchView: int getMaxWidth()
+android.support.v7.widget.SearchView: int getPreferredWidth()
+android.support.v7.widget.SearchView: void setImeVisibility(boolean)
+android.support.v7.widget.SearchView: int getSearchIconId()
+android.support.v7.widget.SearchView: void setQuery(java.lang.CharSequence)
+android.support.v7.widget.SearchView$SearchAutoComplete
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context)
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet)
+android.support.v7.widget.SearchView$SearchAutoComplete: SearchView$SearchAutoComplete(android.content.Context,android.util.AttributeSet,int)
+android.support.v7.widget.SearchView$SearchAutoComplete: void setSearchView(android.support.v7.widget.SearchView)
+android.support.v7.widget.SearchView$SearchAutoComplete: void setThreshold(int)
+com.gdin.guessmusic.R$anim: int abc_fade_in
+com.gdin.guessmusic.R$anim: int abc_fade_out
+com.gdin.guessmusic.R$anim: int abc_slide_in_bottom
+com.gdin.guessmusic.R$anim: int abc_slide_in_top
+com.gdin.guessmusic.R$anim: int abc_slide_out_bottom
+com.gdin.guessmusic.R$anim: int abc_slide_out_top
+com.gdin.guessmusic.R$anim: int rotate
+com.gdin.guessmusic.R$anim: int rotate_45
+com.gdin.guessmusic.R$anim: int rotate_d_45
+com.gdin.guessmusic.R$anim: int scale
+com.gdin.guessmusic.R$anim: int switch_anin
+com.gdin.guessmusic.R$anim: int switch_anin_out
+com.gdin.guessmusic.R$attr: int actionBarDivider
+com.gdin.guessmusic.R$attr: int actionBarItemBackground
+com.gdin.guessmusic.R$attr: int actionBarSize
+com.gdin.guessmusic.R$attr: int actionBarSplitStyle
+com.gdin.guessmusic.R$attr: int actionBarStyle
+com.gdin.guessmusic.R$attr: int actionBarTabBarStyle
+com.gdin.guessmusic.R$attr: int actionBarTabStyle
+com.gdin.guessmusic.R$attr: int actionBarTabTextStyle
+com.gdin.guessmusic.R$attr: int actionBarWidgetTheme
+com.gdin.guessmusic.R$attr: int actionButtonStyle
+com.gdin.guessmusic.R$attr: int actionDropDownStyle
+com.gdin.guessmusic.R$attr: int actionLayout
+com.gdin.guessmusic.R$attr: int actionMenuTextAppearance
+com.gdin.guessmusic.R$attr: int actionMenuTextColor
+com.gdin.guessmusic.R$attr: int actionModeBackground
+com.gdin.guessmusic.R$attr: int actionModeCloseButtonStyle
+com.gdin.guessmusic.R$attr: int actionModeCloseDrawable
+com.gdin.guessmusic.R$attr: int actionModeCopyDrawable
+com.gdin.guessmusic.R$attr: int actionModeCutDrawable
+com.gdin.guessmusic.R$attr: int actionModeFindDrawable
+com.gdin.guessmusic.R$attr: int actionModePasteDrawable
+com.gdin.guessmusic.R$attr: int actionModePopupWindowStyle
+com.gdin.guessmusic.R$attr: int actionModeSelectAllDrawable
+com.gdin.guessmusic.R$attr: int actionModeShareDrawable
+com.gdin.guessmusic.R$attr: int actionModeSplitBackground
+com.gdin.guessmusic.R$attr: int actionModeStyle
+com.gdin.guessmusic.R$attr: int actionModeWebSearchDrawable
+com.gdin.guessmusic.R$attr: int actionOverflowButtonStyle
+com.gdin.guessmusic.R$attr: int actionProviderClass
+com.gdin.guessmusic.R$attr: int actionViewClass
+com.gdin.guessmusic.R$attr: int activityChooserViewStyle
+com.gdin.guessmusic.R$attr: int background
+com.gdin.guessmusic.R$attr: int backgroundSplit
+com.gdin.guessmusic.R$attr: int backgroundStacked
+com.gdin.guessmusic.R$attr: int buttonBarButtonStyle
+com.gdin.guessmusic.R$attr: int buttonBarStyle
+com.gdin.guessmusic.R$attr: int customNavigationLayout
+com.gdin.guessmusic.R$attr: int disableChildrenWhenDisabled
+com.gdin.guessmusic.R$attr: int displayOptions
+com.gdin.guessmusic.R$attr: int divider
+com.gdin.guessmusic.R$attr: int dividerHorizontal
+com.gdin.guessmusic.R$attr: int dividerPadding
+com.gdin.guessmusic.R$attr: int dividerVertical
+com.gdin.guessmusic.R$attr: int dropDownListViewStyle
+com.gdin.guessmusic.R$attr: int dropdownListPreferredItemHeight
+com.gdin.guessmusic.R$attr: int expandActivityOverflowButtonDrawable
+com.gdin.guessmusic.R$attr: int height
+com.gdin.guessmusic.R$attr: int homeAsUpIndicator
+com.gdin.guessmusic.R$attr: int homeLayout
+com.gdin.guessmusic.R$attr: int icon
+com.gdin.guessmusic.R$attr: int iconifiedByDefault
+com.gdin.guessmusic.R$attr: int indeterminateProgressStyle
+com.gdin.guessmusic.R$attr: int initialActivityCount
+com.gdin.guessmusic.R$attr: int isLightTheme
+com.gdin.guessmusic.R$attr: int itemPadding
+com.gdin.guessmusic.R$attr: int listChoiceBackgroundIndicator
+com.gdin.guessmusic.R$attr: int listPopupWindowStyle
+com.gdin.guessmusic.R$attr: int listPreferredItemHeight
+com.gdin.guessmusic.R$attr: int listPreferredItemHeightLarge
+com.gdin.guessmusic.R$attr: int listPreferredItemHeightSmall
+com.gdin.guessmusic.R$attr: int listPreferredItemPaddingLeft
+com.gdin.guessmusic.R$attr: int listPreferredItemPaddingRight
+com.gdin.guessmusic.R$attr: int logo
+com.gdin.guessmusic.R$attr: int navigationMode
+com.gdin.guessmusic.R$attr: int paddingEnd
+com.gdin.guessmusic.R$attr: int paddingStart
+com.gdin.guessmusic.R$attr: int panelMenuListTheme
+com.gdin.guessmusic.R$attr: int panelMenuListWidth
+com.gdin.guessmusic.R$attr: int popupMenuStyle
+com.gdin.guessmusic.R$attr: int popupPromptView
+com.gdin.guessmusic.R$attr: int progressBarPadding
+com.gdin.guessmusic.R$attr: int progressBarStyle
+com.gdin.guessmusic.R$attr: int prompt
+com.gdin.guessmusic.R$attr: int queryHint
+com.gdin.guessmusic.R$attr: int searchDropdownBackground
+com.gdin.guessmusic.R$attr: int searchResultListItemHeight
+com.gdin.guessmusic.R$attr: int searchViewAutoCompleteTextView
+com.gdin.guessmusic.R$attr: int searchViewCloseIcon
+com.gdin.guessmusic.R$attr: int searchViewEditQuery
+com.gdin.guessmusic.R$attr: int searchViewEditQueryBackground
+com.gdin.guessmusic.R$attr: int searchViewGoIcon
+com.gdin.guessmusic.R$attr: int searchViewSearchIcon
+com.gdin.guessmusic.R$attr: int searchViewTextField
+com.gdin.guessmusic.R$attr: int searchViewTextFieldRight
+com.gdin.guessmusic.R$attr: int searchViewVoiceIcon
+com.gdin.guessmusic.R$attr: int selectableItemBackground
+com.gdin.guessmusic.R$attr: int showAsAction
+com.gdin.guessmusic.R$attr: int showDividers
+com.gdin.guessmusic.R$attr: int spinnerDropDownItemStyle
+com.gdin.guessmusic.R$attr: int spinnerMode
+com.gdin.guessmusic.R$attr: int spinnerStyle
+com.gdin.guessmusic.R$attr: int subtitle
+com.gdin.guessmusic.R$attr: int subtitleTextStyle
+com.gdin.guessmusic.R$attr: int textAllCaps
+com.gdin.guessmusic.R$attr: int textAppearanceLargePopupMenu
+com.gdin.guessmusic.R$attr: int textAppearanceListItem
+com.gdin.guessmusic.R$attr: int textAppearanceListItemSmall
+com.gdin.guessmusic.R$attr: int textAppearanceSearchResultSubtitle
+com.gdin.guessmusic.R$attr: int textAppearanceSearchResultTitle
+com.gdin.guessmusic.R$attr: int textAppearanceSmallPopupMenu
+com.gdin.guessmusic.R$attr: int textColorSearchUrl
+com.gdin.guessmusic.R$attr: int title
+com.gdin.guessmusic.R$attr: int titleTextStyle
+com.gdin.guessmusic.R$attr: int windowActionBar
+com.gdin.guessmusic.R$attr: int windowActionBarOverlay
+com.gdin.guessmusic.R$attr: int windowFixedHeightMajor
+com.gdin.guessmusic.R$attr: int windowFixedHeightMinor
+com.gdin.guessmusic.R$attr: int windowFixedWidthMajor
+com.gdin.guessmusic.R$attr: int windowFixedWidthMinor
+com.gdin.guessmusic.R$attr: int windowSplitActionBar
+com.gdin.guessmusic.R$bool: int abc_action_bar_embed_tabs_pre_jb
+com.gdin.guessmusic.R$bool: int abc_action_bar_expanded_action_views_exclusive
+com.gdin.guessmusic.R$bool: int abc_config_actionMenuItemAllCaps
+com.gdin.guessmusic.R$bool: int abc_config_allowActionMenuItemTextWithIcon
+com.gdin.guessmusic.R$bool: int abc_config_showMenuShortcutsWhenKeyboardPresent
+com.gdin.guessmusic.R$bool: int abc_split_action_bar_is_narrow
+com.gdin.guessmusic.R$color: int abc_search_url_text_holo
+com.gdin.guessmusic.R$color: int abc_search_url_text_normal
+com.gdin.guessmusic.R$color: int abc_search_url_text_pressed
+com.gdin.guessmusic.R$color: int abc_search_url_text_selected
+com.gdin.guessmusic.R$color: int black
+com.gdin.guessmusic.R$color: int white
+com.gdin.guessmusic.R$dimen: int abc_action_bar_default_height
+com.gdin.guessmusic.R$dimen: int abc_action_bar_icon_vertical_padding
+com.gdin.guessmusic.R$dimen: int abc_action_bar_progress_bar_size
+com.gdin.guessmusic.R$dimen: int abc_action_bar_stacked_max_height
+com.gdin.guessmusic.R$dimen: int abc_action_bar_stacked_tab_max_width
+com.gdin.guessmusic.R$dimen: int abc_action_bar_subtitle_bottom_margin
+com.gdin.guessmusic.R$dimen: int abc_action_bar_subtitle_text_size
+com.gdin.guessmusic.R$dimen: int abc_action_bar_subtitle_top_margin
+com.gdin.guessmusic.R$dimen: int abc_action_bar_title_text_size
+com.gdin.guessmusic.R$dimen: int abc_action_button_min_width
+com.gdin.guessmusic.R$dimen: int abc_config_prefDialogWidth
+com.gdin.guessmusic.R$dimen: int abc_dropdownitem_icon_width
+com.gdin.guessmusic.R$dimen: int abc_dropdownitem_text_padding_left
+com.gdin.guessmusic.R$dimen: int abc_dropdownitem_text_padding_right
+com.gdin.guessmusic.R$dimen: int abc_panel_menu_list_width
+com.gdin.guessmusic.R$dimen: int abc_search_view_preferred_width
+com.gdin.guessmusic.R$dimen: int abc_search_view_text_min_width
+com.gdin.guessmusic.R$dimen: int activity_horizontal_margin
+com.gdin.guessmusic.R$dimen: int activity_vertical_margin
+com.gdin.guessmusic.R$dimen: int dialog_fixed_height_major
+com.gdin.guessmusic.R$dimen: int dialog_fixed_height_minor
+com.gdin.guessmusic.R$dimen: int dialog_fixed_width_major
+com.gdin.guessmusic.R$dimen: int dialog_fixed_width_minor
+com.gdin.guessmusic.R$drawable: int abc_ab_bottom_solid_dark_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_bottom_solid_light_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_bottom_transparent_dark_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_bottom_transparent_light_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_share_pack_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_ab_share_pack_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ab_solid_dark_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_solid_light_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_stacked_solid_dark_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_stacked_solid_light_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_stacked_transparent_dark_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_stacked_transparent_light_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_transparent_dark_holo
+com.gdin.guessmusic.R$drawable: int abc_ab_transparent_light_holo
+com.gdin.guessmusic.R$drawable: int abc_cab_background_bottom_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_cab_background_bottom_holo_light
+com.gdin.guessmusic.R$drawable: int abc_cab_background_top_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_cab_background_top_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_ab_back_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_ic_ab_back_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_cab_done_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_ic_cab_done_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_clear
+com.gdin.guessmusic.R$drawable: int abc_ic_clear_disabled
+com.gdin.guessmusic.R$drawable: int abc_ic_clear_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_clear_normal
+com.gdin.guessmusic.R$drawable: int abc_ic_clear_search_api_disabled_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_clear_search_api_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_commit_search_api_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_ic_commit_search_api_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_go
+com.gdin.guessmusic.R$drawable: int abc_ic_go_search_api_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_ic_menu_moreoverflow_normal_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_menu_share_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_ic_menu_share_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_search
+com.gdin.guessmusic.R$drawable: int abc_ic_search_api_holo_light
+com.gdin.guessmusic.R$drawable: int abc_ic_voice_search
+com.gdin.guessmusic.R$drawable: int abc_ic_voice_search_api_holo_light
+com.gdin.guessmusic.R$drawable: int abc_item_background_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_item_background_holo_light
+com.gdin.guessmusic.R$drawable: int abc_list_divider_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_list_divider_holo_light
+com.gdin.guessmusic.R$drawable: int abc_list_focused_holo
+com.gdin.guessmusic.R$drawable: int abc_list_longpressed_holo
+com.gdin.guessmusic.R$drawable: int abc_list_pressed_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_list_pressed_holo_light
+com.gdin.guessmusic.R$drawable: int abc_list_selector_background_transition_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_list_selector_background_transition_holo_light
+com.gdin.guessmusic.R$drawable: int abc_list_selector_disabled_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_list_selector_disabled_holo_light
+com.gdin.guessmusic.R$drawable: int abc_list_selector_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_list_selector_holo_light
+com.gdin.guessmusic.R$drawable: int abc_menu_dropdown_panel_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_menu_dropdown_panel_holo_light
+com.gdin.guessmusic.R$drawable: int abc_menu_hardkey_panel_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_menu_hardkey_panel_holo_light
+com.gdin.guessmusic.R$drawable: int abc_search_dropdown_dark
+com.gdin.guessmusic.R$drawable: int abc_search_dropdown_light
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_default_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_default_holo_light
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_disabled_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_disabled_holo_light
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_focused_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_focused_holo_light
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_holo_light
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_pressed_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_spinner_ab_pressed_holo_light
+com.gdin.guessmusic.R$drawable: int abc_tab_indicator_ab_holo
+com.gdin.guessmusic.R$drawable: int abc_tab_selected_focused_holo
+com.gdin.guessmusic.R$drawable: int abc_tab_selected_holo
+com.gdin.guessmusic.R$drawable: int abc_tab_selected_pressed_holo
+com.gdin.guessmusic.R$drawable: int abc_tab_unselected_pressed_holo
+com.gdin.guessmusic.R$drawable: int abc_textfield_search_default_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_textfield_search_default_holo_light
+com.gdin.guessmusic.R$drawable: int abc_textfield_search_right_default_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_textfield_search_right_default_holo_light
+com.gdin.guessmusic.R$drawable: int abc_textfield_search_right_selected_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_textfield_search_right_selected_holo_light
+com.gdin.guessmusic.R$drawable: int abc_textfield_search_selected_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_textfield_search_selected_holo_light
+com.gdin.guessmusic.R$drawable: int abc_textfield_searchview_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_textfield_searchview_holo_light
+com.gdin.guessmusic.R$drawable: int abc_textfield_searchview_right_holo_dark
+com.gdin.guessmusic.R$drawable: int abc_textfield_searchview_right_holo_light
+com.gdin.guessmusic.R$drawable: int about_rank_text
+com.gdin.guessmusic.R$drawable: int about_us
+com.gdin.guessmusic.R$drawable: int about_us_icon
+com.gdin.guessmusic.R$drawable: int about_us_sel
+com.gdin.guessmusic.R$drawable: int all_back
+com.gdin.guessmusic.R$drawable: int all_back_sel
+com.gdin.guessmusic.R$drawable: int allpass_rank
+com.gdin.guessmusic.R$drawable: int allpass_rank_sel
+com.gdin.guessmusic.R$drawable: int allpass_text0
+com.gdin.guessmusic.R$drawable: int allpass_text2
+com.gdin.guessmusic.R$drawable: int allpass_wechat
+com.gdin.guessmusic.R$drawable: int allpass_wechat_sel
+com.gdin.guessmusic.R$drawable: int back
+com.gdin.guessmusic.R$drawable: int back_button_icon
+com.gdin.guessmusic.R$drawable: int back_game
+com.gdin.guessmusic.R$drawable: int back_game_icon
+com.gdin.guessmusic.R$drawable: int back_game_sel
+com.gdin.guessmusic.R$drawable: int begin_game
+com.gdin.guessmusic.R$drawable: int begin_game_icon
+com.gdin.guessmusic.R$drawable: int begin_game_sel
+com.gdin.guessmusic.R$drawable: int buytip_bg
+com.gdin.guessmusic.R$drawable: int buytip_cancel
+com.gdin.guessmusic.R$drawable: int buytip_cancel_sel
+com.gdin.guessmusic.R$drawable: int buytip_ok
+com.gdin.guessmusic.R$drawable: int buytip_ok_sel
+com.gdin.guessmusic.R$drawable: int cancel_button_icon
+com.gdin.guessmusic.R$drawable: int coin_button_icon
+com.gdin.guessmusic.R$drawable: int coins_top_bar
+com.gdin.guessmusic.R$drawable: int delete_button_icon
+com.gdin.guessmusic.R$drawable: int game_buy1
+com.gdin.guessmusic.R$drawable: int game_buy1_sel
+com.gdin.guessmusic.R$drawable: int game_buy2
+com.gdin.guessmusic.R$drawable: int game_buy2_sel
+com.gdin.guessmusic.R$drawable: int game_center
+com.gdin.guessmusic.R$drawable: int game_coin
+com.gdin.guessmusic.R$drawable: int game_coin_icon
+com.gdin.guessmusic.R$drawable: int game_coin_sel
+com.gdin.guessmusic.R$drawable: int game_disc
+com.gdin.guessmusic.R$drawable: int game_disc_light
+com.gdin.guessmusic.R$drawable: int game_level_title
+com.gdin.guessmusic.R$drawable: int game_line
+com.gdin.guessmusic.R$drawable: int game_pin
+com.gdin.guessmusic.R$drawable: int game_share
+com.gdin.guessmusic.R$drawable: int game_share_sel
+com.gdin.guessmusic.R$drawable: int game_title
+com.gdin.guessmusic.R$drawable: int game_word0
+com.gdin.guessmusic.R$drawable: int game_word1
+com.gdin.guessmusic.R$drawable: int game_wordblank
+com.gdin.guessmusic.R$drawable: int game_wx_text
+com.gdin.guessmusic.R$drawable: int get_coins
+com.gdin.guessmusic.R$drawable: int get_coins_back
+com.gdin.guessmusic.R$drawable: int get_coins_back_icon
+com.gdin.guessmusic.R$drawable: int get_coins_back_sel
+com.gdin.guessmusic.R$drawable: int get_coins_icon
+com.gdin.guessmusic.R$drawable: int get_coins_sel
+com.gdin.guessmusic.R$drawable: int get_coins_view
+com.gdin.guessmusic.R$drawable: int ic_launcher
+com.gdin.guessmusic.R$drawable: int index_background
+com.gdin.guessmusic.R$drawable: int index_bar
+com.gdin.guessmusic.R$drawable: int index_medal
+com.gdin.guessmusic.R$drawable: int index_start
+com.gdin.guessmusic.R$drawable: int index_start_sel
+com.gdin.guessmusic.R$drawable: int introduce_back
+com.gdin.guessmusic.R$drawable: int introduce_back_icon
+com.gdin.guessmusic.R$drawable: int introduce_back_sel
+com.gdin.guessmusic.R$drawable: int introduce_bg
+com.gdin.guessmusic.R$drawable: int introduce_top_bar
+com.gdin.guessmusic.R$drawable: int key_button_icon
+com.gdin.guessmusic.R$drawable: int list_top_bar
+com.gdin.guessmusic.R$drawable: int main
+com.gdin.guessmusic.R$drawable: int message_buy_coins
+com.gdin.guessmusic.R$drawable: int message_buy_coins_icon
+com.gdin.guessmusic.R$drawable: int message_buy_coins_sel
+com.gdin.guessmusic.R$drawable: int more_button_icon
+com.gdin.guessmusic.R$drawable: int music_main
+com.gdin.guessmusic.R$drawable: int name_main
+com.gdin.guessmusic.R$drawable: int next_button_icon
+com.gdin.guessmusic.R$drawable: int ok_button_icon
+com.gdin.guessmusic.R$drawable: int pass_next
+com.gdin.guessmusic.R$drawable: int pass_next_sel
+com.gdin.guessmusic.R$drawable: int pass_share
+com.gdin.guessmusic.R$drawable: int pass_share_sel
+com.gdin.guessmusic.R$drawable: int play_button_icon
+com.gdin.guessmusic.R$drawable: int share_button_icon
+com.gdin.guessmusic.R$drawable: int share_get_coins
+com.gdin.guessmusic.R$drawable: int share_get_coins_icon
+com.gdin.guessmusic.R$drawable: int share_get_coins_sel
+com.gdin.guessmusic.R$drawable: int snow
+com.gdin.guessmusic.R$drawable: int weixin_button_icon
+com.gdin.guessmusic.R$drawable: int word_button_icon
+com.gdin.guessmusic.R$id: int about_us_back_btn
+com.gdin.guessmusic.R$id: int about_us_btn
+com.gdin.guessmusic.R$id: int action_bar
+com.gdin.guessmusic.R$id: int action_bar_activity_content
+com.gdin.guessmusic.R$id: int action_bar_container
+com.gdin.guessmusic.R$id: int action_bar_overlay_layout
+com.gdin.guessmusic.R$id: int action_bar_root
+com.gdin.guessmusic.R$id: int action_bar_subtitle
+com.gdin.guessmusic.R$id: int action_bar_title
+com.gdin.guessmusic.R$id: int action_context_bar
+com.gdin.guessmusic.R$id: int action_menu_divider
+com.gdin.guessmusic.R$id: int action_menu_presenter
+com.gdin.guessmusic.R$id: int action_mode_close_button
+com.gdin.guessmusic.R$id: int action_settings
+com.gdin.guessmusic.R$id: int activity_chooser_view_content
+com.gdin.guessmusic.R$id: int always
+com.gdin.guessmusic.R$id: int back_game_btn
+com.gdin.guessmusic.R$id: int begin_game_btn
+com.gdin.guessmusic.R$id: int beginning
+com.gdin.guessmusic.R$id: int btn_bar_add_coins
+com.gdin.guessmusic.R$id: int btn_bar_back
+com.gdin.guessmusic.R$id: int btn_delete_word
+com.gdin.guessmusic.R$id: int btn_dialog_cancel
+com.gdin.guessmusic.R$id: int btn_dialog_ok
+com.gdin.guessmusic.R$id: int btn_next
+com.gdin.guessmusic.R$id: int btn_play_start
+com.gdin.guessmusic.R$id: int btn_right_share
+com.gdin.guessmusic.R$id: int btn_share
+com.gdin.guessmusic.R$id: int btn_tip_answer
+com.gdin.guessmusic.R$id: int checkbox
+com.gdin.guessmusic.R$id: int collapseActionView
+com.gdin.guessmusic.R$id: int default_activity_button
+com.gdin.guessmusic.R$id: int dialog
+com.gdin.guessmusic.R$id: int disableHome
+com.gdin.guessmusic.R$id: int dropdown
+com.gdin.guessmusic.R$id: int edit_query
+com.gdin.guessmusic.R$id: int end
+com.gdin.guessmusic.R$id: int expand_activities_button
+com.gdin.guessmusic.R$id: int expanded_menu
+com.gdin.guessmusic.R$id: int float_btn_view
+com.gdin.guessmusic.R$id: int frameLayout1
+com.gdin.guessmusic.R$id: int gridview
+com.gdin.guessmusic.R$id: int home
+com.gdin.guessmusic.R$id: int homeAsUp
+com.gdin.guessmusic.R$id: int how_to_play_text
+com.gdin.guessmusic.R$id: int icon
+com.gdin.guessmusic.R$id: int ifRoom
+com.gdin.guessmusic.R$id: int image
+com.gdin.guessmusic.R$id: int image1
+com.gdin.guessmusic.R$id: int imageView1
+com.gdin.guessmusic.R$id: int imageView2
+com.gdin.guessmusic.R$id: int item_btn
+com.gdin.guessmusic.R$id: int layout_bar_coin
+com.gdin.guessmusic.R$id: int layout_pan
+com.gdin.guessmusic.R$id: int listMode
+com.gdin.guessmusic.R$id: int list_item
+com.gdin.guessmusic.R$id: int middle
+com.gdin.guessmusic.R$id: int never
+com.gdin.guessmusic.R$id: int none
+com.gdin.guessmusic.R$id: int normal
+com.gdin.guessmusic.R$id: int pass_view
+com.gdin.guessmusic.R$id: int progress_circular
+com.gdin.guessmusic.R$id: int progress_horizontal
+com.gdin.guessmusic.R$id: int radio
+com.gdin.guessmusic.R$id: int search_badge
+com.gdin.guessmusic.R$id: int search_bar
+com.gdin.guessmusic.R$id: int search_button
+com.gdin.guessmusic.R$id: int search_close_btn
+com.gdin.guessmusic.R$id: int search_edit_frame
+com.gdin.guessmusic.R$id: int search_go_btn
+com.gdin.guessmusic.R$id: int search_mag_icon
+com.gdin.guessmusic.R$id: int search_plate
+com.gdin.guessmusic.R$id: int search_src_text
+com.gdin.guessmusic.R$id: int search_voice_btn
+com.gdin.guessmusic.R$id: int shortcut
+com.gdin.guessmusic.R$id: int showCustom
+com.gdin.guessmusic.R$id: int showHome
+com.gdin.guessmusic.R$id: int showTitle
+com.gdin.guessmusic.R$id: int snow
+com.gdin.guessmusic.R$id: int song_type_text
+com.gdin.guessmusic.R$id: int split_action_bar
+com.gdin.guessmusic.R$id: int submit_area
+com.gdin.guessmusic.R$id: int tabMode
+com.gdin.guessmusic.R$id: int textView1
+com.gdin.guessmusic.R$id: int text_current_song_name_pass
+com.gdin.guessmusic.R$id: int text_current_stage_pass
+com.gdin.guessmusic.R$id: int text_dialog_message
+com.gdin.guessmusic.R$id: int text_game_level
+com.gdin.guessmusic.R$id: int title
+com.gdin.guessmusic.R$id: int top_action_bar
+com.gdin.guessmusic.R$id: int txt_bar_coins
+com.gdin.guessmusic.R$id: int up
+com.gdin.guessmusic.R$id: int useLogo
+com.gdin.guessmusic.R$id: int withText
+com.gdin.guessmusic.R$id: int word_select_container
+com.gdin.guessmusic.R$integer: int abc_max_action_buttons
+com.gdin.guessmusic.R$integer: int pay_delete_word
+com.gdin.guessmusic.R$integer: int pay_tip_answer
+com.gdin.guessmusic.R$layout: int abc_action_bar_decor
+com.gdin.guessmusic.R$layout: int abc_action_bar_decor_include
+com.gdin.guessmusic.R$layout: int abc_action_bar_decor_overlay
+com.gdin.guessmusic.R$layout: int abc_action_bar_home
+com.gdin.guessmusic.R$layout: int abc_action_bar_tab
+com.gdin.guessmusic.R$layout: int abc_action_bar_tabbar
+com.gdin.guessmusic.R$layout: int abc_action_bar_title_item
+com.gdin.guessmusic.R$layout: int abc_action_bar_view_list_nav_layout
+com.gdin.guessmusic.R$layout: int abc_action_menu_item_layout
+com.gdin.guessmusic.R$layout: int abc_action_menu_layout
+com.gdin.guessmusic.R$layout: int abc_action_mode_bar
+com.gdin.guessmusic.R$layout: int abc_action_mode_close_item
+com.gdin.guessmusic.R$layout: int abc_activity_chooser_view
+com.gdin.guessmusic.R$layout: int abc_activity_chooser_view_include
+com.gdin.guessmusic.R$layout: int abc_activity_chooser_view_list_item
+com.gdin.guessmusic.R$layout: int abc_expanded_menu_layout
+com.gdin.guessmusic.R$layout: int abc_list_menu_item_checkbox
+com.gdin.guessmusic.R$layout: int abc_list_menu_item_icon
+com.gdin.guessmusic.R$layout: int abc_list_menu_item_layout
+com.gdin.guessmusic.R$layout: int abc_list_menu_item_radio
+com.gdin.guessmusic.R$layout: int abc_popup_menu_item_layout
+com.gdin.guessmusic.R$layout: int abc_search_dropdown_item_icons_2line
+com.gdin.guessmusic.R$layout: int abc_search_view
+com.gdin.guessmusic.R$layout: int abc_simple_decor
+com.gdin.guessmusic.R$layout: int about_us
+com.gdin.guessmusic.R$layout: int activity_main
+com.gdin.guessmusic.R$layout: int activity_menu
+com.gdin.guessmusic.R$layout: int all_pass_view
+com.gdin.guessmusic.R$layout: int answer_right
+com.gdin.guessmusic.R$layout: int dialog_view
+com.gdin.guessmusic.R$layout: int float_button
+com.gdin.guessmusic.R$layout: int name_select
+com.gdin.guessmusic.R$layout: int pan_layout
+com.gdin.guessmusic.R$layout: int self_ui_gridview_item
+com.gdin.guessmusic.R$layout: int support_simple_spinner_dropdown_item
+com.gdin.guessmusic.R$layout: int top_bar
+com.gdin.guessmusic.R$menu: int main
+com.gdin.guessmusic.R$string: int abc_action_bar_home_description
+com.gdin.guessmusic.R$string: int abc_action_bar_up_description
+com.gdin.guessmusic.R$string: int abc_action_menu_overflow_description
+com.gdin.guessmusic.R$string: int abc_action_mode_done
+com.gdin.guessmusic.R$string: int abc_activity_chooser_view_see_all
+com.gdin.guessmusic.R$string: int abc_activitychooserview_choose_application
+com.gdin.guessmusic.R$string: int abc_searchview_description_clear
+com.gdin.guessmusic.R$string: int abc_searchview_description_query
+com.gdin.guessmusic.R$string: int abc_searchview_description_search
+com.gdin.guessmusic.R$string: int abc_searchview_description_submit
+com.gdin.guessmusic.R$string: int abc_searchview_description_voice
+com.gdin.guessmusic.R$string: int abc_shareactionprovider_share_with
+com.gdin.guessmusic.R$string: int abc_shareactionprovider_share_with_application
+com.gdin.guessmusic.R$string: int action_settings
+com.gdin.guessmusic.R$string: int app_name
+com.gdin.guessmusic.R$string: int hello_world
+com.gdin.guessmusic.R$string: int weixin_url
+com.gdin.guessmusic.R$style: int AppBaseTheme
+com.gdin.guessmusic.R$style: int AppTheme
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Base_CompactMenu_Dialog
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Base_SearchResult
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Base_SearchResult_Subtitle
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Base_SearchResult_Title
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Large
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Base_Widget_PopupMenu_Small
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Subtitle
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Light_Base_SearchResult_Title
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Large
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Light_Base_Widget_PopupMenu_Small
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Light_SearchResult_Subtitle
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Light_SearchResult_Title
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_SearchResult_Subtitle
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_SearchResult_Title
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Menu
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Menu
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Subtitle_Inverse
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_ActionBar_Title_Inverse
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Subtitle_Inverse
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_ActionMode_Title_Inverse
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_Base_DropDownItem
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_DropDownItem
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Large
+com.gdin.guessmusic.R$style: int TextAppearance_AppCompat_Widget_PopupMenu_Small
+com.gdin.guessmusic.R$style: int TextAppearance_Widget_AppCompat_Base_ExpandedMenu_Item
+com.gdin.guessmusic.R$style: int TextAppearance_Widget_AppCompat_ExpandedMenu_Item
+com.gdin.guessmusic.R$style: int Theme_AppCompat
+com.gdin.guessmusic.R$style: int Theme_AppCompat_Base_CompactMenu
+com.gdin.guessmusic.R$style: int Theme_AppCompat_Base_CompactMenu_Dialog
+com.gdin.guessmusic.R$style: int Theme_AppCompat_CompactMenu
+com.gdin.guessmusic.R$style: int Theme_AppCompat_CompactMenu_Dialog
+com.gdin.guessmusic.R$style: int Theme_AppCompat_DialogWhenLarge
+com.gdin.guessmusic.R$style: int Theme_AppCompat_Light
+com.gdin.guessmusic.R$style: int Theme_AppCompat_Light_DarkActionBar
+com.gdin.guessmusic.R$style: int Theme_AppCompat_Light_DialogWhenLarge
+com.gdin.guessmusic.R$style: int Theme_Base
+com.gdin.guessmusic.R$style: int Theme_Base_AppCompat
+com.gdin.guessmusic.R$style: int Theme_Base_AppCompat_Dialog_FixedSize
+com.gdin.guessmusic.R$style: int Theme_Base_AppCompat_Dialog_Light_FixedSize
+com.gdin.guessmusic.R$style: int Theme_Base_AppCompat_DialogWhenLarge
+com.gdin.guessmusic.R$style: int Theme_Base_AppCompat_DialogWhenLarge_Base
+com.gdin.guessmusic.R$style: int Theme_Base_AppCompat_Light
+com.gdin.guessmusic.R$style: int Theme_Base_AppCompat_Light_DarkActionBar
+com.gdin.guessmusic.R$style: int Theme_Base_AppCompat_Light_DialogWhenLarge
+com.gdin.guessmusic.R$style: int Theme_Base_AppCompat_Light_DialogWhenLarge_Base
+com.gdin.guessmusic.R$style: int Theme_Base_Light
+com.gdin.guessmusic.R$style: int Theme_Transparent
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActionBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActionBar_Solid
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActionBar_TabBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActionBar_TabText
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActionBar_TabView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActionButton
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActionButton_CloseMode
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActionButton_Overflow
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActionMode
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ActivityChooserView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_AutoCompleteTextView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActionBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActionBar_Solid
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActionBar_TabBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActionBar_TabText
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActionBar_TabView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActionButton
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActionButton_CloseMode
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActionButton_Overflow
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActionMode
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ActivityChooserView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_AutoCompleteTextView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_DropDownItem_Spinner
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ListPopupWindow
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ListView_DropDown
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ListView_Menu
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_PopupMenu
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ProgressBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_ProgressBar_Horizontal
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Base_Spinner
+com.gdin.guessmusic.R$style: int Widget_AppCompat_DropDownItem_Spinner
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionBar_Solid
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionBar_Solid_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionBar_TabBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionBar_TabBar_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionBar_TabText
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionBar_TabText_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionBar_TabView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionBar_TabView_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionButton
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionButton_CloseMode
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionButton_Overflow
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActionMode_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ActivityChooserView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_AutoCompleteTextView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionBar_Solid_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabBar_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabText_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionBar_TabView_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionButton
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionButton_CloseMode
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionButton_Overflow
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActionMode_Inverse
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ActivityChooserView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_AutoCompleteTextView
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_DropDownItem_Spinner
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ListPopupWindow
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_ListView_DropDown
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_PopupMenu
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Base_Spinner
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_DropDownItem_Spinner
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ListPopupWindow
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_ListView_DropDown
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_PopupMenu
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Light_Spinner_DropDown_ActionBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ListPopupWindow
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ListView_DropDown
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ListView_Menu
+com.gdin.guessmusic.R$style: int Widget_AppCompat_PopupMenu
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ProgressBar
+com.gdin.guessmusic.R$style: int Widget_AppCompat_ProgressBar_Horizontal
+com.gdin.guessmusic.R$style: int Widget_AppCompat_Spinner_DropDown_ActionBar
+com.gdin.guessmusic.R$styleable: int[] ActionBar
+com.gdin.guessmusic.R$styleable: int ActionBar_background
+com.gdin.guessmusic.R$styleable: int ActionBar_backgroundSplit
+com.gdin.guessmusic.R$styleable: int ActionBar_backgroundStacked
+com.gdin.guessmusic.R$styleable: int ActionBar_customNavigationLayout
+com.gdin.guessmusic.R$styleable: int ActionBar_displayOptions
+com.gdin.guessmusic.R$styleable: int ActionBar_divider
+com.gdin.guessmusic.R$styleable: int ActionBar_height
+com.gdin.guessmusic.R$styleable: int ActionBar_homeLayout
+com.gdin.guessmusic.R$styleable: int ActionBar_icon
+com.gdin.guessmusic.R$styleable: int ActionBar_indeterminateProgressStyle
+com.gdin.guessmusic.R$styleable: int ActionBar_itemPadding
+com.gdin.guessmusic.R$styleable: int ActionBar_logo
+com.gdin.guessmusic.R$styleable: int ActionBar_navigationMode
+com.gdin.guessmusic.R$styleable: int ActionBar_progressBarPadding
+com.gdin.guessmusic.R$styleable: int ActionBar_progressBarStyle
+com.gdin.guessmusic.R$styleable: int ActionBar_subtitle
+com.gdin.guessmusic.R$styleable: int ActionBar_subtitleTextStyle
+com.gdin.guessmusic.R$styleable: int ActionBar_title
+com.gdin.guessmusic.R$styleable: int ActionBar_titleTextStyle
+com.gdin.guessmusic.R$styleable: int[] ActionBarLayout
+com.gdin.guessmusic.R$styleable: int ActionBarLayout_android_layout_gravity
+com.gdin.guessmusic.R$styleable: int[] ActionBarWindow
+com.gdin.guessmusic.R$styleable: int ActionBarWindow_windowActionBar
+com.gdin.guessmusic.R$styleable: int ActionBarWindow_windowActionBarOverlay
+com.gdin.guessmusic.R$styleable: int ActionBarWindow_windowFixedHeightMajor
+com.gdin.guessmusic.R$styleable: int ActionBarWindow_windowFixedHeightMinor
+com.gdin.guessmusic.R$styleable: int ActionBarWindow_windowFixedWidthMajor
+com.gdin.guessmusic.R$styleable: int ActionBarWindow_windowFixedWidthMinor
+com.gdin.guessmusic.R$styleable: int ActionBarWindow_windowSplitActionBar
+com.gdin.guessmusic.R$styleable: int[] ActionMenuItemView
+com.gdin.guessmusic.R$styleable: int ActionMenuItemView_android_minWidth
+com.gdin.guessmusic.R$styleable: int[] ActionMenuView
+com.gdin.guessmusic.R$styleable: int[] ActionMode
+com.gdin.guessmusic.R$styleable: int ActionMode_background
+com.gdin.guessmusic.R$styleable: int ActionMode_backgroundSplit
+com.gdin.guessmusic.R$styleable: int ActionMode_height
+com.gdin.guessmusic.R$styleable: int ActionMode_subtitleTextStyle
+com.gdin.guessmusic.R$styleable: int ActionMode_titleTextStyle
+com.gdin.guessmusic.R$styleable: int[] ActivityChooserView
+com.gdin.guessmusic.R$styleable: int ActivityChooserView_expandActivityOverflowButtonDrawable
+com.gdin.guessmusic.R$styleable: int ActivityChooserView_initialActivityCount
+com.gdin.guessmusic.R$styleable: int[] CompatTextView
+com.gdin.guessmusic.R$styleable: int CompatTextView_textAllCaps
+com.gdin.guessmusic.R$styleable: int[] LinearLayoutICS
+com.gdin.guessmusic.R$styleable: int LinearLayoutICS_divider
+com.gdin.guessmusic.R$styleable: int LinearLayoutICS_dividerPadding
+com.gdin.guessmusic.R$styleable: int LinearLayoutICS_showDividers
+com.gdin.guessmusic.R$styleable: int[] MenuGroup
+com.gdin.guessmusic.R$styleable: int MenuGroup_android_checkableBehavior
+com.gdin.guessmusic.R$styleable: int MenuGroup_android_enabled
+com.gdin.guessmusic.R$styleable: int MenuGroup_android_id
+com.gdin.guessmusic.R$styleable: int MenuGroup_android_menuCategory
+com.gdin.guessmusic.R$styleable: int MenuGroup_android_orderInCategory
+com.gdin.guessmusic.R$styleable: int MenuGroup_android_visible
+com.gdin.guessmusic.R$styleable: int[] MenuItem
+com.gdin.guessmusic.R$styleable: int MenuItem_actionLayout
+com.gdin.guessmusic.R$styleable: int MenuItem_actionProviderClass
+com.gdin.guessmusic.R$styleable: int MenuItem_actionViewClass
+com.gdin.guessmusic.R$styleable: int MenuItem_android_alphabeticShortcut
+com.gdin.guessmusic.R$styleable: int MenuItem_android_checkable
+com.gdin.guessmusic.R$styleable: int MenuItem_android_checked
+com.gdin.guessmusic.R$styleable: int MenuItem_android_enabled
+com.gdin.guessmusic.R$styleable: int MenuItem_android_icon
+com.gdin.guessmusic.R$styleable: int MenuItem_android_id
+com.gdin.guessmusic.R$styleable: int MenuItem_android_menuCategory
+com.gdin.guessmusic.R$styleable: int MenuItem_android_numericShortcut
+com.gdin.guessmusic.R$styleable: int MenuItem_android_onClick
+com.gdin.guessmusic.R$styleable: int MenuItem_android_orderInCategory
+com.gdin.guessmusic.R$styleable: int MenuItem_android_title
+com.gdin.guessmusic.R$styleable: int MenuItem_android_titleCondensed
+com.gdin.guessmusic.R$styleable: int MenuItem_android_visible
+com.gdin.guessmusic.R$styleable: int MenuItem_showAsAction
+com.gdin.guessmusic.R$styleable: int[] MenuView
+com.gdin.guessmusic.R$styleable: int MenuView_android_headerBackground
+com.gdin.guessmusic.R$styleable: int MenuView_android_horizontalDivider
+com.gdin.guessmusic.R$styleable: int MenuView_android_itemBackground
+com.gdin.guessmusic.R$styleable: int MenuView_android_itemIconDisabledAlpha
+com.gdin.guessmusic.R$styleable: int MenuView_android_itemTextAppearance
+com.gdin.guessmusic.R$styleable: int MenuView_android_preserveIconSpacing
+com.gdin.guessmusic.R$styleable: int MenuView_android_verticalDivider
+com.gdin.guessmusic.R$styleable: int MenuView_android_windowAnimationStyle
+com.gdin.guessmusic.R$styleable: int[] SearchView
+com.gdin.guessmusic.R$styleable: int SearchView_android_imeOptions
+com.gdin.guessmusic.R$styleable: int SearchView_android_inputType
+com.gdin.guessmusic.R$styleable: int SearchView_android_maxWidth
+com.gdin.guessmusic.R$styleable: int SearchView_iconifiedByDefault
+com.gdin.guessmusic.R$styleable: int SearchView_queryHint
+com.gdin.guessmusic.R$styleable: int[] Spinner
+com.gdin.guessmusic.R$styleable: int Spinner_android_dropDownHorizontalOffset
+com.gdin.guessmusic.R$styleable: int Spinner_android_dropDownSelector
+com.gdin.guessmusic.R$styleable: int Spinner_android_dropDownVerticalOffset
+com.gdin.guessmusic.R$styleable: int Spinner_android_dropDownWidth
+com.gdin.guessmusic.R$styleable: int Spinner_android_gravity
+com.gdin.guessmusic.R$styleable: int Spinner_android_popupBackground
+com.gdin.guessmusic.R$styleable: int Spinner_disableChildrenWhenDisabled
+com.gdin.guessmusic.R$styleable: int Spinner_popupPromptView
+com.gdin.guessmusic.R$styleable: int Spinner_prompt
+com.gdin.guessmusic.R$styleable: int Spinner_spinnerMode
+com.gdin.guessmusic.R$styleable: int[] Theme
+com.gdin.guessmusic.R$styleable: int Theme_actionDropDownStyle
+com.gdin.guessmusic.R$styleable: int Theme_dropdownListPreferredItemHeight
+com.gdin.guessmusic.R$styleable: int Theme_listChoiceBackgroundIndicator
+com.gdin.guessmusic.R$styleable: int Theme_panelMenuListTheme
+com.gdin.guessmusic.R$styleable: int Theme_panelMenuListWidth
+com.gdin.guessmusic.R$styleable: int Theme_popupMenuStyle
+com.gdin.guessmusic.R$styleable: int[] View
+com.gdin.guessmusic.R$styleable: int View_android_focusable
+com.gdin.guessmusic.R$styleable: int View_paddingEnd
+com.gdin.guessmusic.R$styleable: int View_paddingStart
+com.gdin.guessmusic.myui.MyGridView
+com.gdin.guessmusic.myui.MyGridView: MyGridView(android.content.Context,android.util.AttributeSet)
+com.gdin.guessmusic.snowanim.SnowView
+com.gdin.guessmusic.snowanim.SnowView: SnowView(android.content.Context,android.util.AttributeSet,int)
+com.gdin.guessmusic.snowanim.SnowView: SnowView(android.content.Context,android.util.AttributeSet)
+com.gdin.guessmusic.ui.AboutUsView
+com.gdin.guessmusic.ui.AboutUsView: AboutUsView()
+com.gdin.guessmusic.ui.AllPassView
+com.gdin.guessmusic.ui.AllPassView: AllPassView()
+com.gdin.guessmusic.ui.MainActivity
+com.gdin.guessmusic.ui.MainActivity: MainActivity()
+com.gdin.guessmusic.ui.MenuActivity
+com.gdin.guessmusic.ui.MenuActivity: MenuActivity()
+com.gdin.guessmusic.wxapi.WXEntryActivity
+com.gdin.guessmusic.wxapi.WXEntryActivity: WXEntryActivity()
+com.tencent.mm.sdk.a.a
+com.tencent.mm.sdk.a.a: boolean a(android.content.Context,com.tencent.mm.sdk.a.a$a)
+com.tencent.mm.sdk.a.a$a
+com.tencent.mm.sdk.a.a$a: java.lang.String k
+com.tencent.mm.sdk.a.a$a: java.lang.String l
+com.tencent.mm.sdk.a.a$a: java.lang.String m
+com.tencent.mm.sdk.a.a$a: int flags
+com.tencent.mm.sdk.a.a$a: android.os.Bundle n
+com.tencent.mm.sdk.a.a$a: a$a()
+com.tencent.mm.sdk.a.a.a
+com.tencent.mm.sdk.a.a.a: boolean a(android.content.Context,com.tencent.mm.sdk.a.a.a$a)
+com.tencent.mm.sdk.a.a.a$a
+com.tencent.mm.sdk.a.a.a$a: java.lang.String o
+com.tencent.mm.sdk.a.a.a$a: java.lang.String p
+com.tencent.mm.sdk.a.a.a$a: java.lang.String m
+com.tencent.mm.sdk.a.a.a$a: android.os.Bundle n
+com.tencent.mm.sdk.a.a.a$a: a$a()
+com.tencent.mm.sdk.a.a.b
+com.tencent.mm.sdk.a.a.b: byte[] a(java.lang.String,int,java.lang.String)
+com.tencent.mm.sdk.b.a
+com.tencent.mm.sdk.b.a: int level
+com.tencent.mm.sdk.b.a: com.tencent.mm.sdk.b.d q
+com.tencent.mm.sdk.b.a: com.tencent.mm.sdk.b.a$a r
+com.tencent.mm.sdk.b.a: com.tencent.mm.sdk.b.a$a s
+com.tencent.mm.sdk.b.a: java.lang.String t
+com.tencent.mm.sdk.b.a: void a(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.a: void b(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.a: void c(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.a: void d(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.a: java.lang.String i(java.lang.String)
+com.tencent.mm.sdk.b.a: void a(java.lang.String,java.lang.String,java.lang.Object[])
+com.tencent.mm.sdk.b.a: int g()
+com.tencent.mm.sdk.b.a: void <clinit>()
+com.tencent.mm.sdk.b.a$a
+com.tencent.mm.sdk.b.a$a: void e(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.a$a: void f(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.a$a: void g(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.a$a: void h(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.a$a: int h()
+com.tencent.mm.sdk.b.b
+com.tencent.mm.sdk.b.b: b()
+com.tencent.mm.sdk.b.b: void e(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.b: void f(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.b: void g(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.b: void h(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.b.b: int h()
+com.tencent.mm.sdk.b.c
+com.tencent.mm.sdk.b.c: java.util.LinkedHashMap u
+com.tencent.mm.sdk.b.c: int size
+com.tencent.mm.sdk.b.c: int v
+com.tencent.mm.sdk.b.c: int A
+com.tencent.mm.sdk.b.c: int B
+com.tencent.mm.sdk.b.c: int C
+com.tencent.mm.sdk.b.c: int D
+com.tencent.mm.sdk.b.c: boolean a(java.lang.Object)
+com.tencent.mm.sdk.b.c: java.lang.Object get(java.lang.Object)
+com.tencent.mm.sdk.b.c: java.lang.Object put(java.lang.Object,java.lang.Object)
+com.tencent.mm.sdk.b.c: void trimToSize(int)
+com.tencent.mm.sdk.b.c: java.lang.String toString()
+com.tencent.mm.sdk.b.d
+com.tencent.mm.sdk.b.d: com.tencent.mm.a.a E
+com.tencent.mm.sdk.b.d: com.tencent.mm.sdk.b.c F
+com.tencent.mm.sdk.b.d: java.lang.String i(java.lang.String)
+com.tencent.mm.sdk.b.e
+com.tencent.mm.sdk.b.e: long[] G
+com.tencent.mm.sdk.b.e: long[] H
+com.tencent.mm.sdk.b.e: java.util.TimeZone GMT
+com.tencent.mm.sdk.b.e: char[] I
+com.tencent.mm.sdk.b.e: java.lang.String[] J
+com.tencent.mm.sdk.b.e: boolean j(java.lang.String)
+com.tencent.mm.sdk.b.e: void <clinit>()
+com.tencent.mm.sdk.c.a
+com.tencent.mm.sdk.c.a$a
+com.tencent.mm.sdk.c.a$a: java.lang.Object a(int,java.lang.String)
+com.tencent.mm.sdk.c.a$b
+com.tencent.mm.sdk.c.a$b: android.net.Uri CONTENT_URI
+com.tencent.mm.sdk.c.a$b: void <clinit>()
+com.tencent.mm.sdk.constants.Build
+com.tencent.mm.sdk.constants.Build: int SDK_INT
+com.tencent.mm.sdk.constants.Build: java.lang.String SDK_VERSION_NAME
+com.tencent.mm.sdk.constants.Build: int MIN_SDK_INT
+com.tencent.mm.sdk.constants.Build: int TIMELINE_SUPPORTED_SDK_INT
+com.tencent.mm.sdk.constants.Build: int EMOJI_SUPPORTED_SDK_INT
+com.tencent.mm.sdk.constants.Build: int MUSIC_DATA_URL_SUPPORTED_SDK_INT
+com.tencent.mm.sdk.constants.Build: int PAY_SUPPORTED_SDK_INT
+com.tencent.mm.sdk.constants.Build: int OPENID_SUPPORTED_SDK_INT
+com.tencent.mm.sdk.constants.Build: int FAVORITE_SUPPPORTED_SDK_INT
+com.tencent.mm.sdk.constants.Build: int MESSAGE_ACTION_SUPPPORTED_SDK_INT
+com.tencent.mm.sdk.constants.Build: Build()
+com.tencent.mm.sdk.constants.Build: int getMajorVersion()
+com.tencent.mm.sdk.constants.Build: int getMinorVersion()
+com.tencent.mm.sdk.constants.ConstantsAPI
+com.tencent.mm.sdk.constants.ConstantsAPI: java.lang.String ACTION_HANDLE_APP_REGISTER
+com.tencent.mm.sdk.constants.ConstantsAPI: java.lang.String ACTION_HANDLE_APP_UNREGISTER
+com.tencent.mm.sdk.constants.ConstantsAPI: java.lang.String ACTION_REFRESH_WXAPP
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_UNKNOWN
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_SENDAUTH
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_SENDMESSAGE_TO_WX
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_GETMESSAGE_FROM_WX
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_SHOWMESSAGE_FROM_WX
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_PAY_BY_WX
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_LAUNCH_BY_WX
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_JUMP_TO_BIZ_PROFILE
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_JUMP_BIZ_WEBVIEW
+com.tencent.mm.sdk.constants.ConstantsAPI: int COMMAND_ADD_CARD_TO_EX_CARD_PACKAGE
+com.tencent.mm.sdk.constants.ConstantsAPI: java.lang.String APP_PACKAGE
+com.tencent.mm.sdk.constants.ConstantsAPI: java.lang.String SDK_VERSION
+com.tencent.mm.sdk.constants.ConstantsAPI: java.lang.String CONTENT
+com.tencent.mm.sdk.constants.ConstantsAPI: java.lang.String CHECK_SUM
+com.tencent.mm.sdk.constants.ConstantsAPI$Token
+com.tencent.mm.sdk.constants.ConstantsAPI$Token: java.lang.String WX_TOKEN_KEY
+com.tencent.mm.sdk.constants.ConstantsAPI$Token: java.lang.String WX_TOKEN_VALUE_MSG
+com.tencent.mm.sdk.constants.ConstantsAPI$Token: java.lang.String WX_TOKEN_PLATFORMID_KEY
+com.tencent.mm.sdk.constants.ConstantsAPI$Token: java.lang.String WX_TOKEN_PLATFORMID_VALUE
+com.tencent.mm.sdk.constants.ConstantsAPI$Token: java.lang.String WX_LAUNCH_PARAM_KEY
+com.tencent.mm.sdk.constants.ConstantsAPI$Token: ConstantsAPI$Token()
+com.tencent.mm.sdk.constants.ConstantsAPI$WXApp
+com.tencent.mm.sdk.constants.ConstantsAPI$WXApp: java.lang.String WXAPP_PACKAGE_NAME
+com.tencent.mm.sdk.constants.ConstantsAPI$WXApp: java.lang.String WXAPP_BROADCAST_PERMISSION
+com.tencent.mm.sdk.constants.ConstantsAPI$WXApp: java.lang.String WXAPP_MSG_ENTRY_CLASSNAME
+com.tencent.mm.sdk.constants.ConstantsAPI$WXApp: ConstantsAPI$WXApp()
+com.tencent.mm.sdk.modelbase.BaseReq
+com.tencent.mm.sdk.modelbase.BaseReq: java.lang.String transaction
+com.tencent.mm.sdk.modelbase.BaseReq: java.lang.String openId
+com.tencent.mm.sdk.modelbase.BaseReq: BaseReq()
+com.tencent.mm.sdk.modelbase.BaseReq: int getType()
+com.tencent.mm.sdk.modelbase.BaseReq: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelbase.BaseReq: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelbase.BaseReq: boolean checkArgs()
+com.tencent.mm.sdk.modelbase.BaseResp
+com.tencent.mm.sdk.modelbase.BaseResp: int errCode
+com.tencent.mm.sdk.modelbase.BaseResp: java.lang.String errStr
+com.tencent.mm.sdk.modelbase.BaseResp: java.lang.String transaction
+com.tencent.mm.sdk.modelbase.BaseResp: java.lang.String openId
+com.tencent.mm.sdk.modelbase.BaseResp: BaseResp()
+com.tencent.mm.sdk.modelbase.BaseResp: int getType()
+com.tencent.mm.sdk.modelbase.BaseResp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelbase.BaseResp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelbase.BaseResp: boolean checkArgs()
+com.tencent.mm.sdk.modelbase.BaseResp$ErrCode
+com.tencent.mm.sdk.modelbase.BaseResp$ErrCode: int ERR_OK
+com.tencent.mm.sdk.modelbase.BaseResp$ErrCode: int ERR_COMM
+com.tencent.mm.sdk.modelbase.BaseResp$ErrCode: int ERR_USER_CANCEL
+com.tencent.mm.sdk.modelbase.BaseResp$ErrCode: int ERR_SENT_FAILED
+com.tencent.mm.sdk.modelbase.BaseResp$ErrCode: int ERR_AUTH_DENIED
+com.tencent.mm.sdk.modelbase.BaseResp$ErrCode: int ERR_UNSUPPORT
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage: AddCardToWXCardPackage()
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Req
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Req: java.util.List cardArrary
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Req: AddCardToWXCardPackage$Req()
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Req: int getType()
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Req: boolean checkArgs()
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Resp
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Resp: java.util.List cardArrary
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Resp: AddCardToWXCardPackage$Resp()
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Resp: AddCardToWXCardPackage$Resp(android.os.Bundle)
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Resp: int getType()
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Resp: boolean checkArgs()
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Resp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$Resp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$WXCardItem
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$WXCardItem: java.lang.String cardId
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$WXCardItem: java.lang.String cardExtMsg
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$WXCardItem: int cardState
+com.tencent.mm.sdk.modelbiz.AddCardToWXCardPackage$WXCardItem: AddCardToWXCardPackage$WXCardItem()
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile: int JUMP_TO_NORMAL_BIZ_PROFILE
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile: int JUMP_TO_HARD_WARE_BIZ_PROFILE
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile: JumpToBizProfile()
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: java.lang.String TAG
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: int EXT_MSG_LENGTH
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: java.lang.String toUserName
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: java.lang.String extMsg
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: int profileType
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: JumpToBizProfile$Req()
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: int getType()
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: boolean checkArgs()
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelbiz.JumpToBizProfile$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview: JumpToBizWebview()
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: java.lang.String TAG
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: int EXT_MSG_LENGTH
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: java.lang.String toUserName
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: java.lang.String extMsg
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: int webType
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: int scene
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: JumpToBizWebview$Req()
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: int getType()
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: boolean checkArgs()
+com.tencent.mm.sdk.modelbiz.JumpToBizWebview$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX: GetMessageFromWX()
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req: java.lang.String username
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req: java.lang.String lang
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req: java.lang.String country
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req: GetMessageFromWX$Req()
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req: GetMessageFromWX$Req(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req: int getType()
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Req: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Resp
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Resp: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Resp: com.tencent.mm.sdk.modelmsg.WXMediaMessage message
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Resp: GetMessageFromWX$Resp()
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Resp: GetMessageFromWX$Resp(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Resp: int getType()
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Resp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Resp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.GetMessageFromWX$Resp: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.LaunchFromWX
+com.tencent.mm.sdk.modelmsg.LaunchFromWX: LaunchFromWX()
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: int MESSAGE_ACTION_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: int MESSAGE_EXT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: java.lang.String messageAction
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: java.lang.String messageExt
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: java.lang.String lang
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: java.lang.String country
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: LaunchFromWX$Req()
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: LaunchFromWX$Req(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: int getType()
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Req: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Resp
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Resp: LaunchFromWX$Resp()
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Resp: LaunchFromWX$Resp(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Resp: int getType()
+com.tencent.mm.sdk.modelmsg.LaunchFromWX$Resp: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.SendAuth
+com.tencent.mm.sdk.modelmsg.SendAuth: SendAuth()
+com.tencent.mm.sdk.modelmsg.SendAuth$Req
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: java.lang.String scope
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: java.lang.String state
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: SendAuth$Req()
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: SendAuth$Req(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: int getType()
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendAuth$Req: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: java.lang.String code
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: java.lang.String state
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: java.lang.String url
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: java.lang.String lang
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: java.lang.String country
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: SendAuth$Resp()
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: SendAuth$Resp(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: int getType()
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendAuth$Resp: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.SendMessageToWX
+com.tencent.mm.sdk.modelmsg.SendMessageToWX: SendMessageToWX()
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: int WXSceneSession
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: int WXSceneTimeline
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: int WXSceneFavorite
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: int FAV_CONTENT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: com.tencent.mm.sdk.modelmsg.WXMediaMessage message
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: int scene
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: SendMessageToWX$Req()
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: SendMessageToWX$Req(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: int getType()
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Req: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Resp
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Resp: SendMessageToWX$Resp()
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Resp: SendMessageToWX$Resp(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Resp: int getType()
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Resp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Resp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.SendMessageToWX$Resp: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX: ShowMessageFromWX()
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req: com.tencent.mm.sdk.modelmsg.WXMediaMessage message
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req: java.lang.String lang
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req: java.lang.String country
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req: ShowMessageFromWX$Req()
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req: ShowMessageFromWX$Req(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req: int getType()
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Req: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Resp
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Resp: ShowMessageFromWX$Resp()
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Resp: ShowMessageFromWX$Resp(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Resp: int getType()
+com.tencent.mm.sdk.modelmsg.ShowMessageFromWX$Resp: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int EXTINFO_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int PATH_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int CONTENT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: java.lang.String extInfo
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: java.lang.String filePath
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: byte[] fileData
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: WXAppExtendObject()
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: WXAppExtendObject(java.lang.String,byte[])
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: WXAppExtendObject(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int type()
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXAppExtendObject: int getFileSize(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData: java.lang.String ACTION_HANDLE_WXAPPLAUNCH
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData: java.lang.String ACTION_HANDLE_WXAPP_RESULT
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData: java.lang.String ACTION_HANDLE_WXAPP_SHOW
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData: int launchType
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData: java.lang.String message
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData: WXAppLaunchData()
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData$Builder
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData$Builder: WXAppLaunchData$Builder()
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData$Builder: com.tencent.mm.sdk.modelmsg.WXAppLaunchData fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXAppLaunchData$Builder: android.os.Bundle toBundle(com.tencent.mm.sdk.modelmsg.WXAppLaunchData)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: int CONTENT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: byte[] emojiData
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: java.lang.String emojiPath
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: WXEmojiObject()
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: WXEmojiObject(byte[])
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: WXEmojiObject(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: void setEmojiData(byte[])
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: void setEmojiPath(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: int type()
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXEmojiObject: int getFileSize(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: java.lang.String thumburl
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: int packageflag
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: java.lang.String packageid
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: java.lang.String url
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: WXEmojiSharedObject()
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: WXEmojiSharedObject(java.lang.String,int,java.lang.String,java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: int type()
+com.tencent.mm.sdk.modelmsg.WXEmojiSharedObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXFileObject
+com.tencent.mm.sdk.modelmsg.WXFileObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXFileObject: int CONTENT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXFileObject: int contentLengthLimit
+com.tencent.mm.sdk.modelmsg.WXFileObject: byte[] fileData
+com.tencent.mm.sdk.modelmsg.WXFileObject: java.lang.String filePath
+com.tencent.mm.sdk.modelmsg.WXFileObject: WXFileObject()
+com.tencent.mm.sdk.modelmsg.WXFileObject: WXFileObject(byte[])
+com.tencent.mm.sdk.modelmsg.WXFileObject: WXFileObject(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXFileObject: void setFileData(byte[])
+com.tencent.mm.sdk.modelmsg.WXFileObject: void setFilePath(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXFileObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXFileObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXFileObject: int type()
+com.tencent.mm.sdk.modelmsg.WXFileObject: void setContentLengthLimit(int)
+com.tencent.mm.sdk.modelmsg.WXFileObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXFileObject: int getFileSize(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXImageObject
+com.tencent.mm.sdk.modelmsg.WXImageObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXImageObject: int CONTENT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXImageObject: int PATH_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXImageObject: int URL_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXImageObject: byte[] imageData
+com.tencent.mm.sdk.modelmsg.WXImageObject: java.lang.String imagePath
+com.tencent.mm.sdk.modelmsg.WXImageObject: java.lang.String imageUrl
+com.tencent.mm.sdk.modelmsg.WXImageObject: WXImageObject()
+com.tencent.mm.sdk.modelmsg.WXImageObject: WXImageObject(byte[])
+com.tencent.mm.sdk.modelmsg.WXImageObject: WXImageObject(android.graphics.Bitmap)
+com.tencent.mm.sdk.modelmsg.WXImageObject: void setImagePath(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXImageObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXImageObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXImageObject: int type()
+com.tencent.mm.sdk.modelmsg.WXImageObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXImageObject: int getFileSize(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int THUMB_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int TITLE_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int DESCRIPTION_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int MEDIA_TAG_NAME_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int MESSAGE_ACTION_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int MESSAGE_EXT_LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String ACTION_WXAPPMESSAGE
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int sdkVer
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String title
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String description
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: byte[] thumbData
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject mediaObject
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String mediaTagName
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String messageAction
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: java.lang.String messageExt
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: WXMediaMessage()
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: WXMediaMessage(com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: int getType()
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: void setThumbImage(android.graphics.Bitmap)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$Builder
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$Builder: java.lang.String KEY_IDENTIFIER
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$Builder: WXMediaMessage$Builder()
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$Builder: android.os.Bundle toBundle(com.tencent.mm.sdk.modelmsg.WXMediaMessage)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$Builder: com.tencent.mm.sdk.modelmsg.WXMediaMessage fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$Builder: java.lang.String pathNewToOld(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$Builder: java.lang.String pathOldToNew(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_UNKNOWN
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_TEXT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_IMAGE
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_MUSIC
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_VIDEO
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_URL
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_FILE
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_APPDATA
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_EMOJI
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_PRODUCT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_EMOTICON_GIFT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_DEVICE_ACCESS
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_MALL_PRODUCT
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_OLD_TV
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_EMOTICON_SHARED
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_CARD_SHARE
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_LOCATION_SHARE
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_RECORD
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int TYPE_TV
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: int type()
+com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXMusicObject
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXMusicObject: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String musicUrl
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String musicLowBandUrl
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String musicDataUrl
+com.tencent.mm.sdk.modelmsg.WXMusicObject: java.lang.String musicLowBandDataUrl
+com.tencent.mm.sdk.modelmsg.WXMusicObject: WXMusicObject()
+com.tencent.mm.sdk.modelmsg.WXMusicObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXMusicObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXMusicObject: int type()
+com.tencent.mm.sdk.modelmsg.WXMusicObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXTextObject
+com.tencent.mm.sdk.modelmsg.WXTextObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXTextObject: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXTextObject: java.lang.String text
+com.tencent.mm.sdk.modelmsg.WXTextObject: WXTextObject()
+com.tencent.mm.sdk.modelmsg.WXTextObject: WXTextObject(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXTextObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXTextObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXTextObject: int type()
+com.tencent.mm.sdk.modelmsg.WXTextObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXVideoObject
+com.tencent.mm.sdk.modelmsg.WXVideoObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXVideoObject: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXVideoObject: java.lang.String videoUrl
+com.tencent.mm.sdk.modelmsg.WXVideoObject: java.lang.String videoLowBandUrl
+com.tencent.mm.sdk.modelmsg.WXVideoObject: WXVideoObject()
+com.tencent.mm.sdk.modelmsg.WXVideoObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXVideoObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXVideoObject: int type()
+com.tencent.mm.sdk.modelmsg.WXVideoObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.WXWebpageObject
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: java.lang.String TAG
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: int LENGTH_LIMIT
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: java.lang.String webpageUrl
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: java.lang.String extInfo
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: WXWebpageObject()
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: WXWebpageObject(java.lang.String)
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: void serialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: void unserialize(android.os.Bundle)
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: int type()
+com.tencent.mm.sdk.modelmsg.WXWebpageObject: boolean checkArgs()
+com.tencent.mm.sdk.modelmsg.package-info
+com.tencent.mm.sdk.modelpay.PayReq
+com.tencent.mm.sdk.modelpay.PayReq: java.lang.String TAG
+com.tencent.mm.sdk.modelpay.PayReq: int EXTDATA_MAX_LENGTH
+com.tencent.mm.sdk.modelpay.PayReq: java.lang.String appId
+com.tencent.mm.sdk.modelpay.PayReq: java.lang.String partnerId
+com.tencent.mm.sdk.modelpay.PayReq: java.lang.String prepayId
+com.tencent.mm.sdk.modelpay.PayReq: java.lang.String nonceStr
+com.tencent.mm.sdk.modelpay.PayReq: java.lang.String timeStamp
+com.tencent.mm.sdk.modelpay.PayReq: java.lang.String packageValue
+com.tencent.mm.sdk.modelpay.PayReq: java.lang.String sign
+com.tencent.mm.sdk.modelpay.PayReq: java.lang.String extData
+com.tencent.mm.sdk.modelpay.PayReq: com.tencent.mm.sdk.modelpay.PayReq$Options options
+com.tencent.mm.sdk.modelpay.PayReq: PayReq()
+com.tencent.mm.sdk.modelpay.PayReq: boolean checkArgs()
+com.tencent.mm.sdk.modelpay.PayReq: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelpay.PayReq: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelpay.PayReq: int getType()
+com.tencent.mm.sdk.modelpay.PayReq$Options
+com.tencent.mm.sdk.modelpay.PayReq$Options: int INVALID_FLAGS
+com.tencent.mm.sdk.modelpay.PayReq$Options: java.lang.String callbackClassName
+com.tencent.mm.sdk.modelpay.PayReq$Options: int callbackFlags
+com.tencent.mm.sdk.modelpay.PayReq$Options: PayReq$Options()
+com.tencent.mm.sdk.modelpay.PayReq$Options: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelpay.PayReq$Options: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelpay.PayResp
+com.tencent.mm.sdk.modelpay.PayResp: java.lang.String prepayId
+com.tencent.mm.sdk.modelpay.PayResp: java.lang.String returnKey
+com.tencent.mm.sdk.modelpay.PayResp: java.lang.String extData
+com.tencent.mm.sdk.modelpay.PayResp: PayResp()
+com.tencent.mm.sdk.modelpay.PayResp: PayResp(android.os.Bundle)
+com.tencent.mm.sdk.modelpay.PayResp: void toBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelpay.PayResp: void fromBundle(android.os.Bundle)
+com.tencent.mm.sdk.modelpay.PayResp: int getType()
+com.tencent.mm.sdk.modelpay.PayResp: boolean checkArgs()
+com.tencent.mm.sdk.openapi.IWXAPI
+com.tencent.mm.sdk.openapi.IWXAPI: boolean registerApp(java.lang.String)
+com.tencent.mm.sdk.openapi.IWXAPI: void unregisterApp()
+com.tencent.mm.sdk.openapi.IWXAPI: boolean handleIntent(android.content.Intent,com.tencent.mm.sdk.openapi.IWXAPIEventHandler)
+com.tencent.mm.sdk.openapi.IWXAPI: boolean isWXAppInstalled()
+com.tencent.mm.sdk.openapi.IWXAPI: boolean isWXAppSupportAPI()
+com.tencent.mm.sdk.openapi.IWXAPI: int getWXAppSupportAPI()
+com.tencent.mm.sdk.openapi.IWXAPI: boolean openWXApp()
+com.tencent.mm.sdk.openapi.IWXAPI: boolean sendReq(com.tencent.mm.sdk.modelbase.BaseReq)
+com.tencent.mm.sdk.openapi.IWXAPI: boolean sendResp(com.tencent.mm.sdk.modelbase.BaseResp)
+com.tencent.mm.sdk.openapi.IWXAPI: void detach()
+com.tencent.mm.sdk.openapi.IWXAPIEventHandler
+com.tencent.mm.sdk.openapi.IWXAPIEventHandler: void onReq(com.tencent.mm.sdk.modelbase.BaseReq)
+com.tencent.mm.sdk.openapi.IWXAPIEventHandler: void onResp(com.tencent.mm.sdk.modelbase.BaseResp)
+com.tencent.mm.sdk.openapi.MMSharedPreferences
+com.tencent.mm.sdk.openapi.MMSharedPreferences: android.content.ContentResolver cr
+com.tencent.mm.sdk.openapi.MMSharedPreferences: java.lang.String[] columns
+com.tencent.mm.sdk.openapi.MMSharedPreferences: java.util.HashMap values
+com.tencent.mm.sdk.openapi.MMSharedPreferences: com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor editor
+com.tencent.mm.sdk.openapi.MMSharedPreferences: MMSharedPreferences(android.content.Context)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: java.lang.Object getValue(java.lang.String)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: java.util.Map getAll()
+com.tencent.mm.sdk.openapi.MMSharedPreferences: java.lang.String getString(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: int getInt(java.lang.String,int)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: long getLong(java.lang.String,long)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: float getFloat(java.lang.String,float)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: boolean getBoolean(java.lang.String,boolean)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: boolean contains(java.lang.String)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: android.content.SharedPreferences$Editor edit()
+com.tencent.mm.sdk.openapi.MMSharedPreferences: void registerOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: void unregisterOnSharedPreferenceChangeListener(android.content.SharedPreferences$OnSharedPreferenceChangeListener)
+com.tencent.mm.sdk.openapi.MMSharedPreferences: java.util.Set getStringSet(java.lang.String,java.util.Set)
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: java.util.Map values
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: java.util.Set remove
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: boolean clear
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: android.content.ContentResolver cr
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: MMSharedPreferences$REditor(android.content.ContentResolver)
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putString(java.lang.String,java.lang.String)
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putInt(java.lang.String,int)
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putLong(java.lang.String,long)
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putFloat(java.lang.String,float)
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putBoolean(java.lang.String,boolean)
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor remove(java.lang.String)
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor clear()
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: boolean commit()
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: void apply()
+com.tencent.mm.sdk.openapi.MMSharedPreferences$REditor: android.content.SharedPreferences$Editor putStringSet(java.lang.String,java.util.Set)
+com.tencent.mm.sdk.openapi.WXAPIFactory
+com.tencent.mm.sdk.openapi.WXAPIFactory: java.lang.String TAG
+com.tencent.mm.sdk.openapi.WXAPIFactory: com.tencent.mm.sdk.openapi.IWXAPI createWXAPI(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.openapi.WXAPIFactory: com.tencent.mm.sdk.openapi.IWXAPI createWXAPI(android.content.Context,java.lang.String,boolean)
+com.tencent.mm.sdk.openapi.WXAPIFactory: WXAPIFactory()
+com.tencent.mm.sdk.openapi.WXApiImplComm
+com.tencent.mm.sdk.openapi.WXApiImplComm: java.lang.String TAG
+com.tencent.mm.sdk.openapi.WXApiImplComm: java.lang.String WX_APP_SIGNATURE
+com.tencent.mm.sdk.openapi.WXApiImplComm: WXApiImplComm()
+com.tencent.mm.sdk.openapi.WXApiImplComm: boolean isIntentFromWx(android.content.Intent,java.lang.String)
+com.tencent.mm.sdk.openapi.WXApiImplComm: boolean validateAppSignatureForPackage(android.content.Context,java.lang.String,boolean)
+com.tencent.mm.sdk.openapi.WXApiImplComm: boolean validateAppSignature(android.content.Context,android.content.pm.Signature[],boolean)
+com.tencent.mm.sdk.openapi.WXApiImplV10
+com.tencent.mm.sdk.openapi.WXApiImplV10: java.lang.String TAG
+com.tencent.mm.sdk.openapi.WXApiImplV10: com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb activityCb
+com.tencent.mm.sdk.openapi.WXApiImplV10: android.content.Context context
+com.tencent.mm.sdk.openapi.WXApiImplV10: java.lang.String appId
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean checkSignature
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean detached
+com.tencent.mm.sdk.openapi.WXApiImplV10: java.lang.String wxappPayEntryClassname
+com.tencent.mm.sdk.openapi.WXApiImplV10: WXApiImplV10(android.content.Context,java.lang.String,boolean)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean registerApp(java.lang.String)
+com.tencent.mm.sdk.openapi.WXApiImplV10: void unregisterApp()
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean handleIntent(android.content.Intent,com.tencent.mm.sdk.openapi.IWXAPIEventHandler)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean isWXAppInstalled()
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean isWXAppSupportAPI()
+com.tencent.mm.sdk.openapi.WXApiImplV10: int getWXAppSupportAPI()
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean openWXApp()
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean sendReq(com.tencent.mm.sdk.modelbase.BaseReq)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean sendPayReq(android.content.Context,android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean sendJumpToBizProfileReq(android.content.Context,android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean sendJumpToBizWebviewReq(android.content.Context,android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean sendAddCardToWX(android.content.Context,android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean sendResp(com.tencent.mm.sdk.modelbase.BaseResp)
+com.tencent.mm.sdk.openapi.WXApiImplV10: void detach()
+com.tencent.mm.sdk.openapi.WXApiImplV10: boolean checkSumConsistent(byte[],byte[])
+com.tencent.mm.sdk.openapi.WXApiImplV10: void initMta(android.content.Context,java.lang.String)
+com.tencent.mm.sdk.openapi.WXApiImplV10: com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb access$100()
+com.tencent.mm.sdk.openapi.WXApiImplV10: void <clinit>()
+com.tencent.mm.sdk.openapi.WXApiImplV10$1
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: java.lang.String TAG
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: int DELAYED
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: boolean isForeground
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: android.os.Handler handler
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: android.content.Context context
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: java.lang.Runnable onPausedRunnable
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: java.lang.Runnable onResumedRunnable
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: WXApiImplV10$ActivityLifecycleCb(android.content.Context)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: void onActivityCreated(android.app.Activity,android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: void onActivityDestroyed(android.app.Activity)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: void onActivityPaused(android.app.Activity)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: void onActivityResumed(android.app.Activity)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: void onActivitySaveInstanceState(android.app.Activity,android.os.Bundle)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: void onActivityStarted(android.app.Activity)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: void onActivityStopped(android.app.Activity)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: void detach()
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: WXApiImplV10$ActivityLifecycleCb(android.content.Context,com.tencent.mm.sdk.openapi.WXApiImplV10$1)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: boolean access$200(com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: android.content.Context access$300(com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb: boolean access$202(com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb,boolean)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb$1
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb$1: com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb this$0
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb$1: WXApiImplV10$ActivityLifecycleCb$1(com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb$1: void run()
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb$2
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb$2: com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb this$0
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb$2: WXApiImplV10$ActivityLifecycleCb$2(com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb)
+com.tencent.mm.sdk.openapi.WXApiImplV10$ActivityLifecycleCb$2: void run()
+com.tencent.wxop.stat.d: com.tencent.wxop.stat.d[] values()
+com.tencent.wxop.stat.d: com.tencent.wxop.stat.d valueOf(java.lang.String)
